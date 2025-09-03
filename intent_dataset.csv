@@ -1,0 +1,1228 @@
+text,intent
+cách nấu phở bò,tìm_kiếm_thông_tin
+mua iphone 15 giá rẻ,mua_hàng
+mua cái máy tính bảng này,mua_hàng
+tôi muốn mua chiếc áo sơ mi này,mua_hàng
+đặt mua ngay sản phẩm này,mua_hàng
+lấy cho tôi hai chai sữa tắm,mua_hàng
+bán cho tôi một con chuột máy tính,mua_hàng
+tôi chốt đơn cái điện thoại này nhé,mua_hàng
+mua một vé xem phim,mua_hàng
+đặt hàng giúp tôi cái đầm này,mua_hàng
+tôi quyết định mua cái máy ảnh này,mua_hàng
+mua ngay đôi dép này cho tôi,mua_hàng
+đặt vé máy bay đi đà nẵng,đặt_vé
+đặt vé máy bay đi đà nẵng cho tôi,đặt_vé
+mua vé chuyến bay VN123,đặt_vé
+tôi muốn đặt vé khứ hồi hà nội sài gòn,đặt_vé
+lấy cho tôi 1 vé đi phú quốc vào cuối tuần,đặt_vé
+đặt vé chuyến bay lúc 8 giờ sáng mai,đặt_vé
+mua vé đi nha trang cho 2 người,đặt_vé
+đặt vé hạng phổ thông đi singapore,đặt_vé
+tôi chốt vé đi đà lạt này nhé,đặt_vé
+mua vé máy bay của vietjet cho chuyến sớm nhất,đặt_vé
+đặt ngay vé này cho tôi,đặt_vé
+tôi muốn mua vé cho cả gia đình,đặt_vé
+đặt vé máy bay đi công tác,đặt_vé
+mua vé máy bay trả sau được không,đặt_vé
+giữ chỗ cho tôi trên chuyến bay này,đặt_vé
+đặt cho tôi 2 vé người lớn và 1 vé trẻ em,đặt_vé
+xác nhận đặt vé chuyến bay này,đặt_vé
+mua vé cho chuyến bay VJ567,đặt_vé
+đặt vé đi huế vào tháng sau,đặt_vé
+tôi muốn thanh toán cho vé máy bay này,đặt_vé
+đặt vé đi tokyo của hãng hàng không ana,đặt_vé
+mua vé máy bay đi hải phòng,đặt_vé
+đặt vé khứ hồi cho chuyến đi 5 ngày,đặt_vé
+tôi quyết định lấy vé này,đặt_vé
+mua vé rẻ nhất đi cần thơ,đặt_vé
+đặt vé máy bay cho tôi,đặt_vé
+tìm chuyến bay từ sài gòn ra hà nội vào ngày mai,tìm_chuyến_bay
+có chuyến bay nào từ đà nẵng đi phú quốc trong tuần tới không,tìm_chuyến_bay
+xem các chuyến bay của vietnam airlines đến singapore,tìm_chuyến_bay
+tìm chuyến bay giá rẻ đi nha trang cho 2 người,tìm_chuyến_bay
+các chuyến bay từ hà nội vào cần thơ khởi hành buổi sáng,tìm_chuyến_bay
+cho tôi xem lịch bay từ hải phòng đi sài gòn,tìm_chuyến_bay
+tìm chuyến bay một chiều đến bangkok,tìm_chuyến_bay
+kiếm cho tôi chuyến bay khứ hồi đi đà lạt vào dịp lễ,tìm_chuyến_bay
+hiển thị tất cả các chuyến bay đi hàn quốc,tìm_chuyến_bay
+chuyến bay sớm nhất từ sài gòn ra vinh là mấy giờ,tìm_chuyến_bay
+tìm chuyến bay hạng thương gia từ hà nội đi tokyo,tìm_chuyến_bay
+có chuyến bay thẳng từ đà nẵng đi siem reap không,tìm_chuyến_bay
+tìm các chuyến bay của vietjet air,tìm_chuyến_bay
+xem các chuyến bay có thể đi trong hôm nay,tìm_chuyến_bay
+tìm giúp tôi chuyến bay về quê ăn tết,tìm_chuyến_bay
+chuyến bay từ thanh hóa vào sài gòn giá bao nhiêu,tìm_chuyến_bay
+tìm chuyến bay cho 3 người lớn và 1 trẻ em,tìm_chuyến_bay
+các chuyến bay đi quy nhơn còn vé không,tìm_chuyến_bay
+tôi muốn tìm một chuyến bay đêm,tìm_chuyến_bay
+xem giúp tôi các chuyến bay đến châu âu,tìm_chuyến_bay
+tìm chuyến bay của bamboo airways từ hà nội đi phú quốc,tìm_chuyến_bay
+có chuyến bay nào đi côn đảo không,tìm_chuyến_bay
+tìm vé máy bay đi gấp trong tối nay,tìm_chuyến_bay
+cho xem các chuyến bay khởi hành sau 8 giờ tối,tìm_chuyến_bay
+tìm chuyến bay từ vinh ra hà nội,tìm_chuyến_bay
+lịch bay từ sài gòn đi rạch giá,tìm_chuyến_bay
+tìm các chuyến bay nội địa,tìm_chuyến_bay
+có chuyến nào bay thẳng từ hà nội đi mỹ không,tìm_chuyến_bay
+tìm chuyến bay cuối cùng trong ngày từ đà nẵng về sài gòn,tìm_chuyến_bay
+xem các chuyến bay có giá dưới 2 triệu,tìm_chuyến_bay
+chuyến bay VN245 mấy giờ cất cánh,tra_cứu_thông_tin_chuyến_bay
+tình trạng chuyến bay VJ150 từ hà nội đi sài gòn,tra_cứu_thông_tin_chuyến_bay
+chuyến bay đến đà nẵng lúc 10h sáng có bị trễ không,tra_cứu_thông_tin_chuyến_bay
+cho tôi biết cửa ra máy bay của chuyến QH202,tra_cứu_thông_tin_chuyến_bay
+bay từ sài gòn ra hà nội mất bao lâu,tra_cứu_thông_tin_chuyến_bay
+quy định hành lý xách tay của vietnam airlines,tra_cứu_thông_tin_chuyến_bay
+thông tin chi tiết về chuyến bay số hiệu VN1558,tra_cứu_thông_tin_chuyến_bay
+chuyến bay của tôi có được phục vụ bữa ăn không,tra_cứu_thông_tin_chuyến_bay
+máy bay của chuyến này là loại gì,tra_cứu_thông_tin_chuyến_bay
+chuyến bay đến phú quốc đã hạ cánh chưa,tra_cứu_thông_tin_chuyến_bay
+có cần làm thủ tục trực tuyến trước không,tra_cứu_thông_tin_chuyến_bay
+xem thông tin chuyến bay từ sài gòn đi vinh,tra_cứu_thông_tin_chuyến_bay
+chuyến bay sớm nhất đến hà nội là của hãng nào,tra_cứu_thông_tin_chuyến_bay
+cho tôi biết thời gian bay dự kiến,tra_cứu_thông_tin_chuyến_bay
+chuyến bay có bị ảnh hưởng bởi thời tiết không,tra_cứu_thông_tin_chuyến_bay
+tôi có được mang theo pin dự phòng không,tra_cứu_thông_tin_chuyến_bay
+làm thủ tục cho chuyến bay ở quầy nào,tra_cứu_thông_tin_chuyến_bay
+chuyến bay từ tokyo về hà nội có quá cảnh không,tra_cứu_thông_tin_chuyến_bay
+xem lại thông tin chuyến bay của tôi,tra_cứu_thông_tin_chuyến_bay
+chuyến bay đã khởi hành đúng giờ không,tra_cứu_thông_tin_chuyến_bay
+kiểm tra vé máy bay của tôi,tra_cứu_thông_tin_vé
+xem lại vé đã đặt với mã đặt chỗ ABCXYZ,tra_cứu_thông_tin_vé
+thông tin vé của tôi thế nào rồi,tra_cứu_thông_tin_vé
+tôi đã đặt vé thành công chưa,tra_cứu_thông_tin_vé
+gửi lại cho tôi xác nhận đặt vé vào email,tra_cứu_thông_tin_vé
+cho tôi xem chi tiết vé đã mua,tra_cứu_thông_tin_vé
+kiểm tra lại thông tin hành khách trên vé,tra_cứu_thông_tin_vé
+vé của tôi là hạng gì,tra_cứu_thông_tin_vé
+xem lại vé khứ hồi tôi đã đặt,tra_cứu_thông_tin_vé
+tôi có mua thêm hành lý ký gửi không,tra_cứu_thông_tin_vé
+tôi muốn hủy vé máy bay đi đà lạt,hủy_vé
+hủy vé có mã đặt chỗ HNT456,hủy_vé
+làm thế nào để hoàn vé máy bay,hủy_vé
+tôi muốn hủy vé do thay đổi kế hoạch,hủy_vé
+chính sách hủy vé của hãng như thế nào,hủy_vé
+hủy chuyến bay đến nha trang giúp tôi,hủy_vé
+tôi không đi nữa hủy vé cho tôi,hủy_vé
+thủ tục hủy vé online,hủy_vé
+hủy vé có được hoàn tiền không,hủy_vé
+vui lòng hủy vé máy bay của tôi,hủy_vé
+thời tiết hôm nay thế nào,hỏi_đáp
+tôi muốn đổi ngày bay,thay_đổi_thông_tin_vé
+có thể thay đổi tên hành khách trên vé không,thay_đổi_thông_tin_vé
+tôi muốn đổi giờ bay sớm hơn,thay_đổi_thông_tin_vé
+thủ tục đổi vé như thế nào,thay_đổi_thông_tin_vé
+đổi vé sang chuyến bay khác được không,thay_đổi_thông_tin_vé
+cách làm bánh flan,tìm_kiếm_thông_tin
+mua laptop dell inspiron,mua_hàng
+giờ mở cửa ngân hàng vietcombank,hỏi_đáp
+đặt bàn ăn nhà hàng hải sản,đặt vé
+hướng dẫn sử dụng máy giặt,tìm_kiếm_thông_tin
+mua tai nghe airpod pro,mua_hàng
+Dự định mua hàng mà giờ thời tiết xấu quá sao đi được,thời_tiết
+Thời tiết như thế này không nên ra ngoài mua hàng hóa,mua_hàng
+tìm chuyến bay từ đà nẵng đi hà nội,tìm_chuyến_bay
+mua vé máy bay từ sài gòn ra hà nội,mua_vé
+cho tôi xem lịch bay từ huế vào đà nẵng,tra_cứu_thông_tin
+đặt vé khứ hồi từ hà nội đi hồ chí minh,đặt_vé
+các chuyến bay từ đà nẵng đến sài gòn,tìm_chuyến_bay
+mua vé một chiều từ hà nội đi huế,mua_vé
+tra cứu chuyến bay từ sài gòn ra đà nẵng,tra_cứu_thông_tin
+tìm chuyến bay từ huế vào hà nội,tìm_chuyến_bay
+đặt vé máy bay đi đà nẵng cuối tuần,đặt_vé
+thông tin chuyến bay từ hà nội đi hồ chí minh,tra_cứu_thông_tin
+tìm chuyến bay từ đà nẵng đến huế,tìm_chuyến_bay
+mua vé máy bay từ huế vào sài gòn,mua_vé
+cho tôi lịch bay từ hà nội đi đà nẵng,tra_cứu_thông_tin
+đặt vé khứ hồi từ sài gòn ra hà nội,đặt_vé
+các chuyến bay từ hồ chí minh đi đà nẵng,tìm_chuyến_bay
+mua vé một chiều từ đà nẵng đi huế,mua_vé
+tra cứu chuyến bay từ hà nội vào huế,tra_cứu_thông_tin
+tìm chuyến bay từ sài gòn đến đà nẵng,tìm_chuyến_bay
+đặt vé máy bay đi huế cuối tháng,đặt_vé
+thông tin chuyến bay từ đà nẵng đi hà nội,tra_cứu_thông_tin
+tìm chuyến bay từ huế đến sài gòn,tìm_chuyến_bay
+mua vé máy bay từ hà nội đi đà nẵng,mua_vé
+cho tôi xem lịch bay từ sài gòn ra huế,tra_cứu_thông_tin
+đặt vé khứ hồi từ đà nẵng đi hà nội,đặt_vé
+các chuyến bay từ hà nội đến huế,tìm_chuyến_bay
+mua vé một chiều từ sài gòn đi đà nẵng,mua_vé
+tra cứu chuyến bay từ huế vào hà nội,tra_cứu_thông_tin
+tìm chuyến bay từ đà nẵng đến hà nội,tìm_chuyến_bay
+đặt vé máy bay đi sài gòn tuần sau,đặt_vé
+thông tin chuyến bay từ huế đi đà nẵng,tra_cứu_thông_tin
+tìm chuyến bay từ hà nội đi sài gòn,tìm_chuyến_bay
+mua vé máy bay từ đà nẵng đến huế,mua_vé
+cho tôi lịch bay từ sài gòn đi hà nội,tra_cứu_thông_tin
+đặt vé khứ hồi từ huế vào đà nẵng,đặt_vé
+các chuyến bay từ đà nẵng đi sài gòn,tìm_chuyến_bay
+mua vé một chiều từ hà nội đến huế,mua_vé
+tra cứu chuyến bay từ sài gòn đi đà nẵng,tra_cứu_thông_tin
+tìm chuyến bay từ huế đến hà nội,tìm_chuyến_bay
+đặt vé máy bay đi đà nẵng tháng sau,đặt_vé
+thông tin chuyến bay từ sài gòn ra hà nội,tra_cứu_thông_tin
+tìm chuyến bay từ sài gòn đi huế,tìm_chuyến_bay
+mua vé máy bay từ hà nội đến sài gòn,mua_vé
+cho tôi xem lịch bay từ đà nẵng đi huế,tra_cứu_thông_tin
+đặt vé khứ hồi từ hà nội đi đà nẵng,đặt_vé
+các chuyến bay từ huế đến sài gòn,tìm_chuyến_bay
+mua vé một chiều từ đà nẵng ra hà nội,mua_vé
+tra cứu chuyến bay từ hà nội đi đà nẵng,tra_cứu_thông_tin
+tìm chuyến bay từ sài gòn đến hà nội,tìm_chuyến_bay
+đặt vé máy bay đi huế tuần tới,đặt_vé
+thông tin chuyến bay từ đà nẵng đến huế,tra_cứu_thông_tin
+tìm chuyến bay từ hà nội đi đà nẵng,tìm_chuyến_bay
+mua vé máy bay từ huế đi hà nội,mua_vé
+cho tôi lịch bay từ đà nẵng đến sài gòn,tra_cứu_thông_tin
+đặt vé khứ hồi từ sài gòn đi huế,đặt_vé
+các chuyến bay từ hà nội đến sài gòn,tìm_chuyến_bay
+mua vé một chiều từ huế vào đà nẵng,mua_vé
+tra cứu chuyến bay từ sài gòn đến hà nội,tra_cứu_thông_tin
+tìm chuyến bay từ đà nẵng đi huế,tìm_chuyến_bay
+đặt vé máy bay đi sài gòn cuối năm,đặt_vé
+thông tin chuyến bay từ huế đến hà nội,tra_cứu_thông_tin
+tìm chuyến bay từ huế đi sài gòn,tìm_chuyến_bay
+mua vé máy bay từ sài gòn đến đà nẵng,mua_vé
+cho tôi xem lịch bay từ hà nội đi huế,tra_cứu_thông_tin
+đặt vé khứ hồi từ đà nẵng đi sài gòn,đặt_vé
+các chuyến bay từ sài gòn đến đà nẵng,tìm_chuyến_bay
+mua vé một chiều từ hà nội đi sài gòn,mua_vé
+tra cứu chuyến bay từ đà nẵng ra hà nội,tra_cứu_thông_tin
+tìm chuyến bay từ hà nội đến huế,tìm_chuyến_bay
+đặt vé máy bay đi đà nẵng dịp tết,đặt_vé
+thông tin chuyến bay từ sài gòn đi huế,tra_cứu_thông_tin
+tìm chuyến bay từ sài gòn ra hà nội,tìm_chuyến_bay
+mua vé máy bay từ đà nẵng đi hà nội,mua_vé
+cho tôi lịch bay từ huế đến sài gòn,tra_cứu_thông_tin
+đặt vé khứ hồi từ hà nội đi sài gòn,đặt_vé
+các chuyến bay từ huế đi đà nẵng,tìm_chuyến_bay
+mua vé một chiều từ sài gòn ra hà nội,mua_vé
+tra cứu chuyến bay từ huế đến đà nẵng,tra_cứu_thông_tin
+tìm chuyến bay từ đà nẵng đến sài gòn,tìm_chuyến_bay
+đặt vé máy bay đi hà nội tháng sau,đặt_vé
+thông tin chuyến bay từ hà nội đến đà nẵng,tra_cứu_thông_tin
+tìm chuyến bay từ sài gòn đi đà nẵng,tìm_chuyến_bay
+mua vé máy bay từ huế đến hà nội,mua_vé
+cho tôi xem lịch bay từ sài gòn đến huế,tra_cứu_thông_tin
+đặt vé khứ hồi từ huế đi hà nội,đặt_vé
+các chuyến bay từ đà nẵng đến hà nội,tìm_chuyến_bay
+mua vé một chiều từ đà nẵng đi sài gòn,mua_vé
+tra cứu chuyến bay từ hà nội đến sài gòn,tra_cứu_thông_tin
+tìm chuyến bay từ huế đến đà nẵng,tìm_chuyến_bay
+đặt vé máy bay đi sài gòn dịp lễ,đặt_vé
+thông tin chuyến bay từ đà nẵng đến sài gòn,tra_cứu_thông_tin
+tìm chuyến bay từ hà nội đi huế,tìm_chuyến_bay
+mua vé máy bay từ sài gòn đi huế,mua_vé
+cho tôi lịch bay từ đà nẵng đến hà nội,tra_cứu_thông_tin
+đặt vé khứ hồi từ sài gòn đi đà nẵng,đặt_vé
+các chuyến bay từ sài gòn đến huế,tìm_chuyến_bay
+mua vé một chiều từ huế đi sài gòn,mua_vé
+tra cứu chuyến bay từ đà nẵng đi huế,tra_cứu_thông_tin
+tìm chuyến bay từ sài gòn đến hà nội,tìm_chuyến_bay
+đặt vé máy bay đi huế dịp hè,đặt_vé
+thông tin chuyến bay từ huế đi sài gòn,tra_cứu_thông_tin
+tìm chuyến bay từ đà nẵng đi sài gòn,tìm_chuyến_bay
+mua vé máy bay từ hà nội đến huế,mua_vé
+cho tôi xem lịch bay từ huế đến đà nẵng,tra_cứu_thông_tin
+đặt vé khứ hồi từ đà nẵng đi huế,đặt_vé
+các chuyến bay từ hà nội đi đà nẵng,tìm_chuyến_bay
+mua vé một chiều từ sài gòn đến huế,mua_vé
+tra cứu chuyến bay từ sài gòn ra đà nẵng,tra_cứu_thông_tin
+tìm chuyến bay từ huế đi hà nội,tìm_chuyến_bay
+đặt vé máy bay đi đà nẵng đầu năm,đặt_vé
+tìm áo thun nam,tìm_sản_phẩm
+tìm cho tôi một chiếc điện thoại mới,tìm_sản_phẩm
+kiếm giày thể thao nam size 42,tìm_sản_phẩm
+có bán sách của Nguyễn Nhật Ánh không,tìm_sản_phẩm
+xem các mẫu váy công sở,tìm_sản_phẩm
+tôi muốn xem các loại tai nghe bluetooth,tìm_sản_phẩm
+shop có bán bàn phím cơ không dây không,tìm_sản_phẩm
+tìm các loại kem chống nắng cho da dầu,tìm_sản_phẩm
+hiển thị các mẫu đồng hồ thông minh mới nhất,tìm_sản_phẩm
+cho xem các loại máy hút bụi cầm tay,tìm_sản_phẩm
+tìm balô đi học cho sinh viên,tìm_sản_phẩm
+có những loại nồi chiên không dầu nào,tìm_sản_phẩm
+kiếm giúp tôi một chiếc áo khoác dù,tìm_sản_phẩm
+xem các sản phẩm tivi 55 inch,tìm_sản_phẩm
+tìm nước hoa nam mùi gỗ,tìm_sản_phẩm
+tôi đang cần tìm một bộ dụng cụ sửa chữa,tìm_sản_phẩm
+so sánh giá điện thoại iPhone và Samsung,so_sánh_giá
+thêm áo khoác vào giỏ hàng,thêm_vào_giỏ_hàng
+thêm sản phẩm này vào giỏ hàng,thêm_vào_giỏ_hàng
+bỏ chiếc mũ này vào giỏ,thêm_vào_giỏ_hàng
+cho cuốn sách này vào giỏ hàng nhé,thêm_vào_giỏ_hàng
+tôi muốn thêm cái này vào giỏ,thêm_vào_giỏ_hàng
+thêm vào giỏ hàng,thêm_vào_giỏ_hàng
+cho cái áo khoác này vào giỏ hàng của tôi,thêm_vào_giỏ_hàng
+bỏ vào giỏ hàng giúp tôi,thêm_vào_giỏ_hàng
+thêm cái laptop này vào giỏ,thêm_vào_giỏ_hàng
+cộng sản phẩm này vào đơn hàng,thêm_vào_giỏ_hàng
+cho vào giỏ hàng,thêm_vào_giỏ_hàng
+mua giày thể thao,mua_hàng
+kiểm tra đơn hàng số 12345,kiểm_tra_đơn_hàng
+hủy đơn hàng vừa đặt,hủy_đơn_hàng
+tìm tai nghe không dây,tìm_sản_phẩm
+so sánh giá laptop Dell và HP,so_sánh_giá
+thêm túi xách vào giỏ hàng,thêm_vào_giỏ_hàng
+mua balo du lịch,mua_hàng
+kiểm tra tình trạng đơn hàng 67890,kiểm_tra_đơn_hàng
+đơn hàng của tôi đang ở đâu,kiểm_tra_đơn_hàng
+xem tình trạng đơn hàng gần đây nhất,kiểm_tra_đơn_hàng
+khi nào thì tôi nhận được hàng,kiểm_tra_đơn_hàng
+đơn hàng đã được giao cho đơn vị vận chuyển chưa?,kiểm_tra_đơn_hàng
+kiểm tra giúp tôi đơn hàng vừa đặt,kiểm_tra_đơn_hàng
+tình trạng đơn hàng của tôi thế nào rồi,kiểm_tra_đơn_hàng
+đơn hàng đã được xác nhận chưa shop,kiểm_tra_đơn_hàng
+bao lâu nữa thì hàng tới nơi,kiểm_tra_đơn_hàng
+xem lại lịch sử đơn hàng,kiểm_tra_đơn_hàng
+cho tôi biết lộ trình của đơn hàng,kiểm_tra_đơn_hàng
+đơn hàng tôi đặt tuần trước đã đi đâu rồi,kiểm_tra_đơn_hàng
+kiểm tra đơn hàng có mã vận đơn ABC123456,kiểm_tra_đơn_hàng
+gói hàng của tôi đã được đóng gói chưa,kiểm_tra_đơn_hàng
+tôi đã nhận được hàng chưa nhỉ,kiểm_tra_đơn_hàng
+xem đơn hàng mới nhất,kiểm_tra_đơn_hàng
+hủy đơn hàng số 54321,hủy_đơn_hàng
+tìm nồi cơm điện,tìm_sản_phẩm
+so sánh giá TV LG và Sony,so_sánh_giá
+thêm máy xay sinh tố vào giỏ hàng,thêm_vào_giỏ_hàng
+mua bàn phím cơ,mua_hàng
+kiểm tra đơn hàng gần nhất,kiểm_tra_đơn_hàng
+hủy đơn hàng đã đặt sáng nay,hủy_đơn_hàng
+tìm váy đầm dự tiệc,tìm_sản_phẩm
+so sánh giá máy ảnh Canon và Nikon,so_sánh_giá
+thêm đồng hồ đeo tay vào giỏ hàng,thêm_vào_giỏ_hàng
+mua loa bluetooth,mua_hàng
+kiểm tra đơn hàng đã thanh toán,kiểm_tra_đơn_hàng
+hủy đơn hàng chưa giao,hủy_đơn_hàng
+tìm bình giữ nhiệt,tìm_sản_phẩm
+so sánh giá máy tính bảng iPad và Samsung,so_sánh_giá
+thêm chăn ga gối vào giỏ hàng,thêm_vào_giỏ_hàng
+mua máy lọc không khí,mua_hàng
+kiểm tra đơn hàng đã nhận được chưa,kiểm_tra_đơn_hàng
+hủy đơn hàng vì đổi ý,hủy_đơn_hàng
+tìm giày cao gót,tìm_sản_phẩm
+so sánh giá tủ lạnh Panasonic và Toshiba,so_sánh_giá
+thêm bàn làm việc vào giỏ hàng,thêm_vào_giỏ_hàng
+mua ghế gaming,mua_hàng
+kiểm tra đơn hàng đang vận chuyển,kiểm_tra_đơn_hàng
+hủy đơn hàng do trùng sản phẩm,hủy_đơn_hàng
+tôi muốn hủy đơn hàng vừa đặt,hủy_đơn_hàng
+hủy đơn hàng này giúp tôi,hủy_đơn_hàng
+làm ơn hủy đơn hàng do tôi đặt nhầm sản phẩm,hủy_đơn_hàng
+tôi không muốn mua nữa hủy đơn đi,hủy_đơn_hàng
+xóa đơn hàng mới nhất khỏi hệ thống,hủy_đơn_hàng
+hủy đơn hàng do tôi tìm được chỗ khác rẻ hơn,hủy_đơn_hàng
+tôi muốn thay đổi ý định hủy đơn nhé,hủy_đơn_hàng
+hủy đơn hàng do thời gian giao dự kiến quá lâu,hủy_đơn_hàng
+vui lòng không xử lý đơn hàng này nữa,hủy_đơn_hàng
+tôi muốn hủy đơn hàng cái tivi,hủy_đơn_hàng
+tìm máy sấy tóc,tìm_sản_phẩm
+so sánh giá điều hòa Daikin và LG,so_sánh_giá
+so sánh giá giữa điện thoại Samsung và iPhone,so_sánh_giá
+giá của tivi Sony và tivi LG khác nhau thế nào,so_sánh_giá
+nên mua máy ảnh Canon hay Nikon với tầm giá 15 triệu,so_sánh_giá
+so sánh laptop Dell và HP trong cùng phân khúc,so_sánh_giá
+giữa hai sản phẩm này cái nào rẻ hơn,so_sánh_giá
+so sánh giá máy giặt Electrolux và LG,so_sánh_giá
+cho tôi so sánh giá của 3 loại tai nghe này,so_sánh_giá
+giá của Adidas Stan Smith và Nike Air Force 1,so_sánh_giá
+so sánh tủ lạnh Panasonic và Toshiba,so_sánh_giá
+nên chọn mua xe máy Honda hay Yamaha,so_sánh_giá
+thêm vali du lịch vào giỏ hàng,thêm_vào_giỏ_hàng
+mua ổ cứng di động,mua_hàng
+kiểm tra đơn hàng đã giao thành công chưa,kiểm_tra_đơn_hàng
+hủy đơn hàng do không còn nhu cầu,hủy_đơn_hàng
+tìm quần jeans nam,tìm_sản_phẩm
+so sánh giá máy giặt Electrolux và Sharp,so_sánh_giá
+thêm nước hoa vào giỏ hàng,thêm_vào_giỏ_hàng
+mua tai nghe nhét tai,mua_hàng
+kiểm tra đơn hàng đã xác nhận chưa,kiểm_tra_đơn_hàng
+hủy đơn hàng vì chọn sai sản phẩm,hủy_đơn_hàng
+tìm áo len nữ,tìm_sản_phẩm
+so sánh giá lò vi sóng Sunhouse và Kangaroo,so_sánh_giá
+thêm bình nước vào giỏ hàng,thêm_vào_giỏ_hàng
+mua thẻ nhớ,mua_hàng
+kiểm tra đơn hàng đang xử lý,kiểm_tra_đơn_hàng
+hủy đơn hàng do giao hàng chậm,hủy_đơn_hàng
+tìm mũ bảo hiểm,tìm_sản_phẩm
+so sánh giá robot hút bụi Xiaomi và Roborock,so_sánh_giá
+thêm gối ôm vào giỏ hàng,thêm_vào_giỏ_hàng
+mua bàn ủi hơi nước,mua_hàng
+kiểm tra đơn hàng đã thanh toán online,kiểm_tra_đơn_hàng
+hủy đơn hàng do đặt nhầm,hủy_đơn_hàng
+tìm áo khoác dù,tìm_sản_phẩm
+so sánh giá máy ép chậm Hurom và Panasonic,so_sánh_giá
+thêm ví da vào giỏ hàng,thêm_vào_giỏ_hàng
+mua quạt điều hòa,mua_hàng
+kiểm tra đơn hàng đã giao đến đâu,kiểm_tra_đơn_hàng
+hủy đơn hàng vì không ưng ý,hủy_đơn_hàng
+tìm bộ đồ bơi,tìm_sản_phẩm
+so sánh giá bàn phím Logitech và Razer,so_sánh_giá
+thêm kem dưỡng da vào giỏ hàng,thêm_vào_giỏ_hàng
+mua máy đọc sách,mua_hàng
+kiểm tra đơn hàng đã hoàn thành,kiểm_tra_đơn_hàng
+hủy đơn hàng do thay đổi địa chỉ,hủy_đơn_hàng
+tìm túi đeo chéo,tìm_sản_phẩm
+so sánh giá chuột máy tính Dell và HP,so_sánh_giá
+thêm sữa rửa mặt vào giỏ hàng,thêm_vào_giỏ_hàng
+mua máy massage,mua_hàng
+kiểm tra đơn hàng đã được gửi đi chưa,kiểm_tra_đơn_hàng
+hủy đơn hàng do giá cao,hủy_đơn_hàng
+tìm áo sơ mi công sở,tìm_sản_phẩm
+so sánh giá máy in Epson và Canon,so_sánh_giá
+thêm son môi vào giỏ hàng,thêm_vào_giỏ_hàng
+mua bình đun siêu tốc,mua_hàng
+kiểm tra đơn hàng đã nhận hàng,kiểm_tra_đơn_hàng
+hủy đơn hàng do không liên lạc được,hủy_đơn_hàng
+tìm quần jogger,tìm_sản_phẩm
+so sánh giá loa JBL và Sony,so_sánh_giá
+thêm khăn mặt vào giỏ hàng,thêm_vào_giỏ_hàng
+mua máy cạo râu,mua_hàng
+kiểm tra đơn hàng đã xử lý xong chưa,kiểm_tra_đơn_hàng
+hủy đơn hàng do sản phẩm hết hàng,hủy_đơn_hàng
+tìm áo hoodie,tìm_sản_phẩm
+so sánh giá tai nghe AirPods và Galaxy Buds,so_sánh_giá
+thêm bộ đồ ngủ vào giỏ hàng,thêm_vào_giỏ_hàng
+mua máy sưởi,mua_hàng
+kiểm tra đơn hàng đã được giao thành công,kiểm_tra_đơn_hàng
+hủy đơn hàng do không cần nữa,hủy_đơn_hàng
+tìm giày lười,tìm_sản_phẩm
+so sánh giá máy chiếu Optoma và BenQ,so_sánh_giá
+thêm bộ ấm trà vào giỏ hàng,thêm_vào_giỏ_hàng
+mua máy hút bụi,mua_hàng
+kiểm tra đơn hàng đang chờ xác nhận,kiểm_tra_đơn_hàng
+hủy đơn hàng do đặt trùng,hủy_đơn_hàng
+tìm kính mát,tìm_sản_phẩm
+so sánh giá máy lọc nước Karofi và Kangaroo,so_sánh_giá
+thêm bộ dụng cụ làm bếp vào giỏ hàng,thêm_vào_giỏ_hàng
+mua máy xay thịt,mua_hàng
+kiểm tra đơn hàng đã chuyển khoản,kiểm_tra_đơn_hàng
+hủy đơn hàng do không giao đúng hẹn,hủy_đơn_hàng
+tìm áo phông nữ,tìm_sản_phẩm
+so sánh giá bàn là Philips và Panasonic,so_sánh_giá
+cho tôi biết thông tin chi tiết về sản phẩm này,tra_cứu_thông_tin_sản_phẩm
+máy giặt này có chức năng sấy không?,tra_cứu_thông_tin_sản_phẩm
+điện thoại này có mấy màu?,tra_cứu_thông_tin_sản_phẩm
+chính sách bảo hành của sản phẩm này như thế nào?,tra_cứu_thông_tin_sản_phẩm
+cho xem cấu hình của laptop này,tra_cứu_thông_tin_sản_phẩm
+sản phẩm này được sản xuất ở đâu?,tra_cứu_thông_tin_sản_phẩm
+chất liệu của cái áo này là gì?,tra_cứu_thông_tin_sản_phẩm
+pin của con điện thoại này dùng được bao lâu?,tra_cứu_thông_tin_sản_phẩm
+cái này có chống nước không?,tra_cứu_thông_tin_sản_phẩm
+cho tôi xem đánh giá của người dùng về sản phẩm,tra_cứu_thông_tin_sản_phẩm
+thêm bộ vệ sinh laptop vào giỏ hàng,thêm_vào_giỏ_hàng
+tư vấn cho tôi một chiếc laptop cho việc học,yêu_cầu_tư_vấn
+tôi nên mua loại điện thoại nào trong tầm giá 10 triệu,yêu_cầu_tư_vấn
+gợi ý cho tôi một món quà sinh nhật cho bạn gái,yêu_cầu_tư_vấn
+da tôi là da nhạy cảm nên dùng loại sữa rửa mặt nào,yêu_cầu_tư_vấn
+giúp tôi chọn một cuốn sách hay,yêu_cầu_tư_vấn
+tôi phân vân không biết nên chọn cái nào,yêu_cầu_tư_vấn
+nhờ bạn tư vấn giúp,yêu_cầu_tư_vấn
+bạn có thể gợi ý vài sản phẩm tốt không,yêu_cầu_tư_vấn
+tôi cần sự trợ giúp để chọn sản phẩm,yêu_cầu_tư_vấn
+loại nào thì phù hợp với nhu cầu của tôi,yêu_cầu_tư_vấn
+mua máy làm sữa đậu nành,mua_hàng
+kiểm tra đơn hàng đã giao đến kho chưa,kiểm_tra_đơn_hàng
+hủy đơn hàng do sản phẩm lỗi,hủy_đơn_hàng
+tìm balo laptop,tìm_sản_phẩm
+so sánh giá cân sức khỏe Xiaomi và Beurer,so_sánh_giá
+thêm bộ đồ chơi trẻ em vào giỏ hàng,thêm_vào_giỏ_hàng
+mua máy đo huyết áp,mua_hàng
+kiểm tra đơn hàng đã xử lý thanh toán,kiểm_tra_đơn_hàng
+trong giỏ hàng của tôi có gì?,kiểm_tra_giỏ_hàng
+xem lại giỏ hàng,kiểm_tra_giỏ_hàng
+giỏ hàng của tôi có bao nhiêu món rồi,kiểm_tra_giỏ_hàng
+cho tôi xem các sản phẩm trong giỏ,kiểm_tra_giỏ_hàng
+tổng tiền trong giỏ hàng là bao nhiêu,kiểm_tra_giỏ_hàng
+liệt kê các mặt hàng trong giỏ,kiểm_tra_giỏ_hàng
+tôi đã thêm những gì vào giỏ,kiểm_tra_giỏ_hàng
+mở giỏ hàng của tôi,kiểm_tra_giỏ_hàng
+xem giỏ hàng,kiểm_tra_giỏ_hàng
+kiểm tra lại các món đã chọn,kiểm_tra_giỏ_hàng
+hủy đơn hàng do không thích nữa,hủy_đơn_hàng
+tìm ví nữ,tìm_sản_phẩm
+so sánh giá bếp từ Taka và Bosch,so_sánh_giá
+thêm bộ bàn chải điện vào giỏ hàng,thêm_vào_giỏ_hàng
+mua máy rửa mặt,mua_hàng
+kiểm tra đơn hàng đã giao đến người nhận chưa,kiểm_tra_đơn_hàng
+hủy đơn hàng do thông tin sai,hủy_đơn_hàng
+tìm khóa học lập trình Python,tìm_khóa_học
+đăng ký lớp học tiếng Anh giao tiếp,đăng_ký_học
+câu hỏi về nội dung khóa học Toán,hỏi_đáp
+kiểm tra lịch học tuần sau,kiểm_tra_lịch_học
+tải tài liệu ôn thi đại học,tài_liệu_học_tập
+hủy đăng ký khóa học Văn,hủy_đăng_ký
+tìm khóa học thiết kế đồ họa,tìm_khóa_học
+đăng ký học Photoshop cơ bản,đăng_ký_học
+hỏi về lịch khai giảng khóa học,hỏi_đáp
+xem lịch học ngày mai,kiểm_tra_lịch_học
+tìm giáo trình học tiếng Nhật,tài_liệu_học_tập
+hủy đăng ký lớp học Piano,hủy_đăng_ký
+tìm khóa học luyện thi IELTS,tìm_khóa_học
+đăng ký học kỹ năng thuyết trình,đăng_ký_học
+hỏi về học phí khóa học Marketing,hỏi_đáp
+kiểm tra lịch thi cuối kỳ,kiểm_tra_lịch_học
+tải bài giảng môn Lịch Sử,tài_liệu_học_tập
+hủy đăng ký khóa học Yoga,hủy_đăng_ký
+tìm khóa học nấu ăn,tìm_khóa_học
+đăng ký học tiếng Hàn sơ cấp,đăng_ký_học
+hỏi về giáo viên dạy Toán,hỏi_đáp
+xem lịch học buổi tối,kiểm_tra_lịch_học
+tìm sách học tiếng Trung,tài_liệu_học_tập
+hủy đăng ký lớp học Guitar,hủy_đăng_ký
+tìm khóa học quản trị kinh doanh,tìm_khóa_học
+đăng ký học kế toán thực hành,đăng_ký_học
+hỏi về thời lượng khóa học,hỏi_đáp
+kiểm tra lịch học thứ 7,kiểm_tra_lịch_học
+tải đề thi thử môn Vật Lý,tài_liệu_học_tập
+hủy đăng ký khóa học Nhiếp ảnh,hủy_đăng_ký
+tìm khóa học lập trình web,tìm_khóa_học
+đăng ký học tiếng Pháp,đăng_ký_học
+hỏi về chương trình ưu đãi học phí,hỏi_đáp
+xem lịch học online,kiểm_tra_lịch_học
+tìm tài liệu học Hóa Học,tài_liệu_học_tập
+hủy đăng ký lớp học Võ,hủy_đăng_ký
+tìm khóa học thiết kế thời trang,tìm_khóa_học
+đăng ký học kỹ năng mềm,đăng_ký_học
+hỏi về địa điểm học,hỏi_đáp
+kiểm tra lịch học buổi sáng,kiểm_tra_lịch_học
+tải slide bài giảng môn Sinh Học,tài_liệu_học_tập
+hủy đăng ký khóa học MC,hủy_đăng_ký
+tìm khóa học chứng khoán,tìm_khóa_học
+đăng ký học tiếng Đức,đăng_ký_học
+hỏi về hình thức học online,hỏi_đáp
+xem lịch học cuối tuần,kiểm_tra_lịch_học
+tìm giáo án dạy Toán tiểu học,tài_liệu_học_tập
+hủy đăng ký lớp học Nhảy,hủy_đăng_ký
+tìm khóa học phát âm tiếng Anh,tìm_khóa_học
+đăng ký học thiết kế nội thất,đăng_ký_học
+hỏi về tài liệu học tập được cung cấp,hỏi_đáp
+kiểm tra lịch học tháng tới,kiểm_tra_lịch_học
+tải đề cương ôn tập môn Địa Lý,tài_liệu_học_tập
+hủy đăng ký khóa học Thanh nhạc,hủy_đăng_ký
+tìm khóa học Content Marketing,tìm_khóa_học
+đăng ký học tiếng Tây Ban Nha,đăng_ký_học
+hỏi về chính sách học lại,hỏi_đáp
+xem lịch học các ngày trong tuần,kiểm_tra_lịch_học
+tìm bài tập môn Ngữ Văn,tài_liệu_học_tập
+hủy đăng ký lớp học Cờ vua,hủy_đăng_ký
+tìm khóa học Data Science,tìm_khóa_học
+đăng ký học kỹ năng lãnh đạo,đăng_ký_học
+hỏi về giảng viên khóa học,hỏi_đáp
+kiểm tra lịch học offline,kiểm_tra_lịch_học
+tải tài liệu học lập trình Java,tài_liệu_học_tập
+hủy đăng ký khóa học Múa,hủy_đăng_ký
+tìm khóa học Digital Marketing,tìm_khóa_học
+đăng ký học tiếng Nga,đăng_ký_học
+hỏi về cách thức đóng học phí,hỏi_đáp
+xem lịch học các môn chuyên ngành,kiểm_tra_lịch_học
+tìm đề thi học kỳ môn Tin Học,tài_liệu_học_tập
+hủy đăng ký lớp học Bơi,hủy_đăng_ký
+tìm khóa học AI cơ bản,tìm_khóa_học
+đăng ký học kỹ năng giao tiếp,đăng_ký_học
+hỏi về thời gian học buổi tối,hỏi_đáp
+kiểm tra lịch học hè,kiểm_tra_lịch_học
+tải giáo trình học tiếng Ý,tài_liệu_học_tập
+hủy đăng ký khóa học Vẽ,hủy_đăng_ký
+tìm khóa học Blockchain,tìm_khóa_học
+đăng ký học tiếng Bồ Đào Nha,đăng_ký_học
+hỏi về chứng chỉ sau khóa học,hỏi_đáp
+xem lịch học các buổi workshop,kiểm_tra_lịch_học
+tìm bài giảng môn Kinh Tế,tài_liệu_học_tập
+hủy đăng ký lớp học Đàn,hủy_đăng_ký
+tìm khóa học Public Speaking,tìm_khóa_học
+đăng ký học tiếng Ả Rập,đăng_ký_học
+hỏi về số lượng học viên mỗi lớp,hỏi_đáp
+kiểm tra lịch học thực hành,kiểm_tra_lịch_học
+tải tài liệu học tiếng Thái,tài_liệu_học_tập
+hủy đăng ký khóa học Thiền,hủy_đăng_ký
+tìm khóa học Cloud Computing,tìm_khóa_học
+đăng ký học kỹ năng quản lý thời gian,đăng_ký_học
+hỏi về phương pháp giảng dạy,hỏi_đáp
+xem lịch học các môn tự chọn,kiểm_tra_lịch_học
+tìm đề thi tốt nghiệp môn Toán,tài_liệu_học_tập
+hủy đăng ký lớp học Cắm hoa,hủy_đăng_ký
+tìm khóa học UX/UI Design,tìm_khóa_học
+đăng ký học tiếng Hà Lan,đăng_ký_học
+hỏi về điều kiện tham gia khóa học,hỏi_đáp
+kiểm tra lịch học các buổi seminar,kiểm_tra_lịch_học
+tải bài tập môn Xác Suất Thống Kê,tài_liệu_học_tập
+hủy đăng ký khóa học Viết văn,hủy_đăng_ký
+tìm khóa học Machine Learning,tìm_khóa_học
+đăng ký học kỹ năng phỏng vấn,đăng_ký_học
+hỏi về tài liệu tham khảo,hỏi_đáp
+xem lịch học các môn bắt buộc,kiểm_tra_lịch_học
+tìm giáo trình học tiếng Hàn trung cấp,tài_liệu_học_tập
+hủy đăng ký lớp học Kịch nghệ,hủy_đăng_ký
+tìm khóa học Business Analyst,tìm_khóa_học
+đăng ký học tiếng Thụy Điển,đăng_ký_học
+hỏi về cách liên hệ với trung tâm,hỏi_đáp
+kiểm tra lịch học các buổi ngoại khóa,kiểm_tra_lịch_học
+tải đề thi mẫu môn Tiếng Anh,tài_liệu_học_tập
+hủy đăng ký khóa học Nấu ăn chuyên nghiệp,hủy_đăng_ký
+dự báo thời tiết hôm nay,dự_báo_thời_tiết
+nhiệt độ hiện tại ở Hà Nội là bao nhiêu,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại TP.HCM,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo bão không,cảnh_báo_thời_tiết
+thời tiết ngày mai như thế nào,thời_tiết_theo_ngày
+thời tiết ở Đà Nẵng vào cuối tuần,thời_tiết_theo_địa_điểm
+dự báo thời tiết tuần này,dự_báo_thời_tiết
+nhiệt độ ngoài trời hiện tại,kiểm_tra_nhiệt_độ
+thời tiết từng giờ ngày mai,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo mưa lớn không,cảnh_báo_thời_tiết
+thời tiết thứ 7 này,thời_tiết_theo_ngày
+thời tiết ở Nha Trang vào thứ 7,thời_tiết_theo_địa_điểm
+dự báo thời tiết 3 ngày tới,dự_báo_thời_tiết
+nhiệt độ buổi trưa ở Sài Gòn,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Đà Lạt,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo lũ không,cảnh_báo_thời_tiết
+thời tiết chủ nhật,thời_tiết_theo_ngày
+thời tiết ở Hải Phòng ngày mai,thời_tiết_theo_địa_điểm
+dự báo thời tiết cuối tuần,dự_báo_thời_tiết
+nhiệt độ buổi tối ở Huế,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Vũng Tàu,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo gió mạnh không,cảnh_báo_thời_tiết
+thời tiết thứ 6,thời_tiết_theo_ngày
+thời tiết ở Cần Thơ vào thứ 2,thời_tiết_theo_địa_điểm
+dự báo thời tiết 5 ngày tới,dự_báo_thời_tiết
+nhiệt độ sáng sớm ở Đà Nẵng,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Hạ Long,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo nắng nóng không,cảnh_báo_thời_tiết
+thời tiết ngày kia,thời_tiết_theo_ngày
+thời tiết ở Phú Quốc vào cuối tuần,thời_tiết_theo_địa_điểm
+dự báo thời tiết tháng này,dự_báo_thời_tiết
+nhiệt độ buổi chiều ở Hội An,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Ninh Bình,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo rét đậm không,cảnh_báo_thời_tiết
+thời tiết cuối tuần,thời_tiết_theo_ngày
+thời tiết ở Sapa vào thứ 7,thời_tiết_theo_địa_điểm
+dự báo thời tiết 7 ngày tới,dự_báo_thời_tiết
+nhiệt độ đêm nay ở Hà Nội,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Quy Nhơn,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo sương mù không,cảnh_báo_thời_tiết
+thời tiết thứ 3,thời_tiết_theo_ngày
+thời tiết ở Đà Lạt vào chủ nhật,thời_tiết_theo_địa_điểm
+dự báo thời tiết ngày mai,dự_báo_thời_tiết
+nhiệt độ trưa nay ở TP.HCM,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Hải Phòng,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo mưa đá không,cảnh_báo_thời_tiết
+thời tiết thứ 5,thời_tiết_theo_ngày
+thời tiết ở Vinh vào ngày mai,thời_tiết_theo_địa_điểm
+dự báo thời tiết 10 ngày tới,dự_báo_thời_tiết
+nhiệt độ sáng mai ở Đà Nẵng,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Thanh Hóa,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo lốc xoáy không,cảnh_báo_thời_tiết
+thời tiết thứ 2,thời_tiết_theo_ngày
+thời tiết ở Buôn Ma Thuột vào thứ 4,thời_tiết_theo_địa_điểm
+dự báo thời tiết hôm nay tại Hà Nội,dự_báo_thời_tiết
+nhiệt độ tối nay ở Sài Gòn,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Biên Hòa,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo triều cường không,cảnh_báo_thời_tiết
+thời tiết thứ 7 và chủ nhật,thời_tiết_theo_ngày
+thời tiết ở Rạch Giá vào thứ 5,thời_tiết_theo_địa_điểm
+dự báo thời tiết tuần sau,dự_báo_thời_tiết
+nhiệt độ chiều nay ở Hạ Long,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Thái Nguyên,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo cháy rừng không,cảnh_báo_thời_tiết
+thời tiết ngày mùng 1 Tết,thời_tiết_theo_ngày
+thời tiết ở Mũi Né vào thứ 6,thời_tiết_theo_địa_điểm
+dự báo thời tiết 14 ngày tới,dự_báo_thời_tiết
+nhiệt độ đêm nay ở Huế,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Bắc Ninh,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo ngập lụt không,cảnh_báo_thời_tiết
+thời tiết thứ 4 tuần sau,thời_tiết_theo_ngày
+thời tiết ở Long Xuyên vào chủ nhật,thời_tiết_theo_địa_điểm
+dự báo thời tiết đầu tháng,dự_báo_thời_tiết
+nhiệt độ trưa mai ở Nha Trang,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Hải Dương,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo động đất không,cảnh_báo_thời_tiết
+thời tiết ngày nghỉ lễ,thời_tiết_theo_ngày
+thời tiết ở Bảo Lộc vào thứ 2,thời_tiết_theo_địa_điểm
+dự báo thời tiết giữa tháng,dự_báo_thời_tiết
+nhiệt độ chiều tối ở Vũng Tàu,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Nam Định,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo sóng thần không,cảnh_báo_thời_tiết
+thời tiết thứ 7 tuần sau,thời_tiết_theo_ngày
+thời tiết ở Châu Đốc vào thứ 3,thời_tiết_theo_địa_điểm
+dự báo thời tiết cuối tháng,dự_báo_thời_tiết
+nhiệt độ sáng sớm ở Phan Thiết,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Bình Dương,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo hạn hán không,cảnh_báo_thời_tiết
+thời tiết ngày Quốc Khánh,thời_tiết_theo_ngày
+thời tiết ở Tây Ninh vào thứ 5,thời_tiết_theo_địa_điểm
+dự báo thời tiết mùa hè,dự_báo_thời_tiết
+nhiệt độ đêm khuya ở Cần Thơ,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Đồng Nai,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo lũ quét không,cảnh_báo_thời_tiết
+thời tiết thứ 2 tuần sau,thời_tiết_theo_ngày
+thời tiết ở Gia Lai vào chủ nhật,thời_tiết_theo_địa_điểm
+dự báo thời tiết mùa đông,dự_báo_thời_tiết
+nhiệt độ trưa nay ở Quảng Ninh,kiểm_tra_nhiệt_độ
+thời tiết từng giờ tại Bến Tre,hỏi_về_thời_tiết_theo_giờ
+có cảnh báo băng giá không,cảnh_báo_thời_tiết
+thời tiết ngày Giáng sinh,thời_tiết_theo_ngày
+thời tiết ở Kon Tum vào thứ 4,thời_tiết_theo_địa_điểm
+điểm chuẩn ngành công nghệ thông tin năm nay là bao nhiêu,tra_cứu_điểm_chuẩn
+tôi muốn tìm hiểu về ngành quản trị kinh doanh,tìm_ngành_học
+làm thế nào để đăng ký xét tuyển đại học,đăng_ký_xét_tuyển
+thời hạn nộp hồ sơ xét tuyển là khi nào,hỏi_đáp_tuyển_sinh
+kiểm tra tình trạng hồ sơ của tôi,kiểm_tra_hồ_sơ
+hướng dẫn nhập học cho tân sinh viên,hướng_dẫn_nhập_học
+điểm chuẩn trường đại học kinh tế năm ngoái,tra_cứu_điểm_chuẩn
+các ngành đào tạo của trường đại học bách khoa,tìm_ngành_học
+cách thức đăng ký nguyện vọng xét tuyển,đăng_ký_xét_tuyển
+điều kiện xét tuyển thẳng là gì,hỏi_đáp_tuyển_sinh
+kiểm tra xem hồ sơ đã được duyệt chưa,kiểm_tra_hồ_sơ
+quy trình nhập học cần những giấy tờ gì,hướng_dẫn_nhập_học
+điểm chuẩn ngành y năm 2023,tra_cứu_điểm_chuẩn
+ngành ngôn ngữ anh có những chuyên ngành nào,tìm_ngành_học
+đăng ký xét tuyển học bạ cần những gì,đăng_ký_xét_tuyển
+có được thay đổi nguyện vọng sau khi nộp không,hỏi_đáp_tuyển_sinh
+tôi muốn kiểm tra lịch phỏng vấn tuyển sinh,kiểm_tra_hồ_sơ
+hướng dẫn đóng học phí lần đầu,hướng_dẫn_nhập_học
+điểm chuẩn khối a1 các trường top đầu,tra_cứu_điểm_chuẩn
+trường nào đào tạo ngành kiến trúc,tìm_ngành_học
+cách đăng ký xét tuyển bằng điểm thi tốt nghiệp,đăng_ký_xét_tuyển
+chính sách ưu tiên khu vực như thế nào,hỏi_đáp_tuyển_sinh
+kiểm tra danh sách trúng tuyển,kiểm_tra_hồ_sơ
+thủ tục làm thẻ sinh viên mới,hướng_dẫn_nhập_học
+điểm chuẩn ngành luật năm nay tăng hay giảm,tra_cứu_điểm_chuẩn
+ngành công nghệ sinh học học những gì,tìm_ngành_học
+hồ sơ đăng ký xét tuyển gồm những gì,đăng_ký_xét_tuyển
+cách tính điểm xét tuyển đại học,hỏi_đáp_tuyển_sinh
+kiểm tra kết quả phúc khảo,kiểm_tra_hồ_sơ
+hướng dẫn đăng ký môn học đầu năm,hướng_dẫn_nhập_học
+điểm chuẩn đại học ngoại thương các năm,tra_cứu_điểm_chuẩn
+ngành marketing có khó xin việc không,tìm_ngành_học
+đăng ký xét tuyển trực tuyến ở đâu,đăng_ký_xét_tuyển
+điểm ưu tiên đối tượng được cộng bao nhiêu,hỏi_đáp_tuyển_sinh
+kiểm tra lịch thi đánh giá năng lực,kiểm_tra_hồ_sơ
+hướng dẫn nhận phòng ký túc xá,hướng_dẫn_nhập_học
+điểm chuẩn ngành kế toán các trường,tra_cứu_điểm_chuẩn
+ngành trí tuệ nhân tạo học ở đâu tốt,tìm_ngành_học
+thời gian đăng ký xét tuyển kéo dài bao lâu,đăng_ký_xét_tuyển
+có được xét tuyển đồng thời nhiều trường không,hỏi_đáp_tuyển_sinh
+kiểm tra giấy báo trúng tuyển,kiểm_tra_hồ_sơ
+hướng dẫn mua đồng phục sinh viên,hướng_dẫn_nhập_học
+điểm chuẩn đại học sư phạm theo phương thức nào,tra_cứu_điểm_chuẩn
+ngành quan hệ quốc tế ra trường làm gì,tìm_ngành_học
+cách đăng ký xét tuyển bằng chứng chỉ IELTS,đăng_ký_xét_tuyển
+tỉ lệ chọi ngành y năm nay là bao nhiêu,hỏi_đáp_tuyển_sinh
+kiểm tra thông tin học bổng,kiểm_tra_hồ_sơ
+hướng dẫn tham quan trường trước khi nhập học,hướng_dẫn_nhập_học
+điểm chuẩn ngành điện tử viễn thông,tra_cứu_điểm_chuẩn
+trường nào đào tạo ngành hàng không,tìm_ngành_học
+đăng ký xét tuyển bằng học bạ có khó không,đăng_ký_xét_tuyển
+điểm sàn là gì và có khác điểm chuẩn không,hỏi_đáp_tuyển_sinh
+kiểm tra thông báo trúng tuyển vòng bổ sung,kiểm_tra_hồ_sơ
+hướng dẫn làm thủ tục nhập học online,hướng_dẫn_nhập_học
+điểm chuẩn ngành dược 5 năm gần đây,tra_cứu_điểm_chuẩn
+ngành công nghệ thực phẩm có tương lai không,tìm_ngành_học
+cách đăng ký xét tuyển bằng điểm SAT,đăng_ký_xét_tuyển
+điều kiện xét học bạ là gì,hỏi_đáp_tuyển_sinh
+kiểm tra lịch nộp học phí đợt 1,kiểm_tra_hồ_sơ
+hướng dẫn tham gia tuần sinh hoạt công dân,hướng_dẫn_nhập_học
+điểm chuẩn ngành báo chí các năm,tra_cứu_điểm_chuẩn
+ngành logistics học trường nào tốt,tìm_ngành_học
+có thể đăng ký bao nhiêu nguyện vọng,đăng_ký_xét_tuyển
+chính sách học bổng cho sinh viên mới,hỏi_đáp_tuyển_sinh
+kiểm tra thông tin đóng bảo hiểm y tế,kiểm_tra_hồ_sơ
+hướng dẫn đăng ký ở nội trú,hướng_dẫn_nhập_học
+điểm chuẩn ngành tâm lý học,tra_cứu_điểm_chuẩn
+ngành thiết kế đồ họa cần tố chất gì,tìm_ngành_học
+đăng ký xét tuyển qua đường bưu điện,đăng_ký_xét_tuyển
+thời gian công bố điểm chuẩn là khi nào,hỏi_đáp_tuyển_sinh
+kiểm tra thông tin miễn giảm học phí,kiểm_tra_hồ_sơ
+hướng dẫn tham gia câu lạc bộ sinh viên,hướng_dẫn_nhập_học
+điểm chuẩn ngành môi trường,tra_cứu_điểm_chuẩn
+ngành an toàn thông tin học những môn gì,tìm_ngành_học
+cách tính điểm xét học bạ,đăng_ký_xét_tuyển
+điều kiện để được xét tuyển thẳng,hỏi_đáp_tuyển_sinh
+kiểm tra lịch học dự bị đại học,kiểm_tra_hồ_sơ
+hướng dẫn làm thẻ thư viện,hướng_dẫn_nhập_học
+điểm chuẩn ngành kiến trúc năm nay,tra_cứu_điểm_chuẩn
+ngành quốc tế học có dễ xin việc không,tìm_ngành_học
+đăng ký xét tuyển bằng kết quả thi đánh giá năng lực,đăng_ký_xét_tuyển
+tỉ lệ trúng tuyển các năm trước,hỏi_đáp_tuyển_sinh
+kiểm tra thông tin đã nộp đầy đủ hồ sơ chưa,kiểm_tra_hồ_sơ
+hướng dẫn tham gia định hướng sinh viên mới,hướng_dẫn_nhập_học
+điểm chuẩn ngành sư phạm toán,tra_cứu_điểm_chuẩn
+ngành truyền thông đa phương tiện học gì,tìm_ngành_học
+cách đăng ký nguyện vọng ưu tiên,đăng_ký_xét_tuyển
+điểm cộng ưu tiên khu vực được tính thế nào,hỏi_đáp_tuyển_sinh
+kiểm tra thông báo nhập học chính thức,kiểm_tra_hồ_sơ
+hướng dẫn đăng ký xe bus của trường,hướng_dẫn_nhập_học
+điểm chuẩn ngành ngôn ngữ nhật,tra_cứu_điểm_chuẩn
+ngành công nghệ ô tô học ở đâu,tìm_ngành_học
+thủ tục đăng ký xét tuyển tại chức,đăng_ký_xét_tuyển
+có được điều chỉnh nguyện vọng sau khi biết điểm không,hỏi_đáp_tuyển_sinh
+kiểm tra thông tin học phí theo tín chỉ,kiểm_tra_hồ_sơ
+hướng dẫn tham gia chương trình đào tạo quốc tế,hướng_dẫn_nhập_học
+điểm chuẩn ngành du lịch khách sạn,tra_cứu_điểm_chuẩn
+ngành thiết kế thời trang cần thi khối nào,tìm_ngành_học
+cách đăng ký xét tuyển bằng chứng chỉ TOEFL,đăng_ký_xét_tuyển
+điều kiện để được cộng điểm nghề,hỏi_đáp_tuyển_sinh
+kiểm tra thông tin đã hoàn thành thủ tục nhập học,kiểm_tra_hồ_sơ
+hướng dẫn tham gia hoạt động tình nguyện đầu năm,hướng_dẫn_nhập_học
+Tôi muốn biết chức năng của máy đo huyết áp,tra_cứu_thông_tin_sản_phẩm
+Tôi muốn biết thông tin tuyển sinh năm nay,thông_tin_tuyển_sinh
+Cho tôi hỏi thời gian tuyển sinh của trường,thông_tin_tuyển_sinh
+Năm nay trường tuyển bao nhiêu chỉ tiêu,thông_tin_tuyển_sinh
+Khi nào trường bắt đầu nhận hồ sơ,thông_tin_tuyển_sinh
+Trường có tuyển sinh liên thông không,thông_tin_tuyển_sinh
+Trường có tuyển sinh văn bằng 2 không,thông_tin_tuyển_sinh
+Thời gian thi tuyển sinh diễn ra khi nào,thông_tin_tuyển_sinh
+Điều kiện xét tuyển của trường là gì,thông_tin_tuyển_sinh
+Trường có tổ chức thi đầu vào không,thông_tin_tuyển_sinh
+Tôi muốn biết chỉ tiêu tuyển sinh từng ngành,thông_tin_tuyển_sinh
+Học phí của ngành công nghệ thông tin là bao nhiêu,học_phí
+Cho tôi biết mức học phí ngành kế toán,học_phí
+Trường có chính sách giảm học phí cho sinh viên nghèo không,học_phí
+Học phí học kỳ 1 là bao nhiêu,học_phí
+Có hỗ trợ trả góp học phí không,học_phí
+Học phí toàn khóa học là bao nhiêu,học_phí
+Học phí mỗi tín chỉ ngành quản trị kinh doanh là bao nhiêu,học_phí
+Trường có miễn giảm học phí cho sinh viên giỏi không,học_phí
+Học phí ngành thiết kế đồ họa bao nhiêu một năm,học_phí
+Trường có thu học phí theo học kỳ hay năm,học_phí
+Tôi muốn được tư vấn ngành học phù hợp,tư_vấn_ngành_học
+Giúp tôi chọn ngành học phù hợp với năng lực,tư_vấn_ngành_học
+Ngành quản trị kinh doanh có cơ hội việc làm thế nào,tư_vấn_ngành_học
+Ngành kỹ thuật phần mềm có khó học không,tư_vấn_ngành_học
+Tư vấn giúp tôi ngành phù hợp với xu hướng,tư_vấn_ngành_học
+Ngành ngôn ngữ Anh có dễ xin việc không,tư_vấn_ngành_học
+Ngành marketing có phù hợp với nữ không,tư_vấn_ngành_học
+Tôi nên chọn ngành học nào để dễ xin việc,tư_vấn_ngành_học
+Ngành tài chính ngân hàng có triển vọng thế nào,tư_vấn_ngành_học
+Ngành logistics có cơ hội ở Việt Nam không,tư_vấn_ngành_học
+Thủ tục nhập học cần những giấy tờ gì,thủ_tục_nhập_học
+Khi nhập học cần mang theo giấy tờ gì,thủ_tục_nhập_học
+Nộp hồ sơ nhập học ở đâu,thủ_tục_nhập_học
+Làm sao để hoàn tất thủ tục nhập học,thủ_tục_nhập_học
+Có thể đăng ký nhập học online không,thủ_tục_nhập_học
+Nhập học muộn có được không,thủ_tục_nhập_học
+Trường có nhận hồ sơ qua bưu điện không,thủ_tục_nhập_học
+Có thể ủy quyền người khác nhập học được không,thủ_tục_nhập_học
+Thời hạn nhập học là khi nào,thủ_tục_nhập_học
+Thủ tục nhập học trực tuyến cần những gì,thủ_tục_nhập_học
+Khi nào trường phát giấy báo nhập học,thông_tin_tuyển_sinh
+Hình thức tuyển sinh của trường như thế nào,thông_tin_tuyển_sinh
+Điểm chuẩn xét tuyển năm ngoái là bao nhiêu,thông_tin_tuyển_sinh
+Có cần thi năng khiếu cho ngành thiết kế không,thông_tin_tuyển_sinh
+Ngành y dược xét tuyển theo khối nào,thông_tin_tuyển_sinh
+Ngành công nghệ thông tin xét tuyển từ những tổ hợp nào,thông_tin_tuyển_sinh
+Điều kiện để được miễn thi đầu vào là gì,thông_tin_tuyển_sinh
+Trường có tuyển sinh hệ vừa học vừa làm không,thông_tin_tuyển_sinh
+Có tuyển sinh sinh viên quốc tế không,thông_tin_tuyển_sinh
+Làm sao để xin học bổng giảm học phí,học_phí
+Mức học phí ngành luật là bao nhiêu,học_phí
+Học phí ngành du lịch và nhà hàng khách sạn,học_phí
+Học phí có thay đổi mỗi năm không,học_phí
+Trường có thu thêm phụ phí nào khác không,học_phí
+Có hoàn học phí nếu nghỉ học giữa chừng không,học_phí
+Học phí ngành y tế công cộng là bao nhiêu,học_phí
+Có chính sách hỗ trợ học phí cho con em gia đình chính sách không,học_phí
+Học phí có bao gồm phí giáo trình không,học_phí
+Tư vấn ngành học phù hợp với xu hướng công nghệ,tư_vấn_ngành_học
+Ngành trí tuệ nhân tạo có tiềm năng không,tư_vấn_ngành_học
+Tôi muốn học ngành phù hợp để du học,tư_vấn_ngành_học
+Ngành kỹ thuật cơ khí có phù hợp với tôi không,tư_vấn_ngành_học
+Ngành kiến trúc cần tố chất gì,tư_vấn_ngành_học
+Ngành điện tử viễn thông có khó xin việc không,tư_vấn_ngành_học
+Tôi muốn tư vấn ngành học phù hợp với điểm thi,tư_vấn_ngành_học
+Ngành nào đang được nhà tuyển dụng săn đón,tư_vấn_ngành_học
+Ngành học nào có lương cao,tư_vấn_ngành_học
+Thủ tục nhập học cần giấy khám sức khỏe không,thủ_tục_nhập_học
+Có cần nộp ảnh khi nhập học không,thủ_tục_nhập_học
+Nộp học phí khi nào khi nhập học,thủ_tục_nhập_học
+Có thể nhập học trước khi nộp đủ giấy tờ không,thủ_tục_nhập_học
+Nhập học trễ một tuần có được không,thủ_tục_nhập_học
+Cách xin gia hạn thời gian nhập học,thủ_tục_nhập_học
+Có thể chuyển ngành khi mới nhập học không,thủ_tục_nhập_học
+Có cần mang theo giấy báo nhập học bản gốc không,thủ_tục_nhập_học
+Nhập học cần có giấy xác nhận tạm trú không,thủ_tục_nhập_học
+Trường hợp mất giấy báo nhập học phải làm sao,thủ_tục_nhập_học
+Điểm chuẩn ngành công nghệ thông tin năm nay là bao nhiêu,tra_cứu_điểm_chuẩn
+Cho tôi biết điểm chuẩn ngành y dược,tra_cứu_điểm_chuẩn
+Ngành luật lấy điểm chuẩn bao nhiêu,tra_cứu_điểm_chuẩn
+Tôi muốn biết điểm chuẩn ngành marketing,tra_cứu_điểm_chuẩn
+Điểm chuẩn xét tuyển học bạ là bao nhiêu,tra_cứu_điểm_chuẩn
+Điểm chuẩn khối A ngành kế toán,tra_cứu_điểm_chuẩn
+Ngành thiết kế đồ họa lấy bao nhiêu điểm,tra_cứu_điểm_chuẩn
+Điểm chuẩn năm ngoái của ngành quản trị kinh doanh,tra_cứu_điểm_chuẩn
+Điểm chuẩn đại học hệ chính quy là bao nhiêu,tra_cứu_điểm_chuẩn
+Điểm chuẩn liên thông ngành điều dưỡng,tra_cứu_điểm_chuẩn
+Ngành cơ khí lấy điểm chuẩn bao nhiêu,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành kiến trúc năm 2024,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành điện tử viễn thông,tra_cứu_điểm_chuẩn
+Ngành quản trị du lịch lấy bao nhiêu điểm,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành giáo dục mầm non,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành công nghệ thực phẩm,tra_cứu_điểm_chuẩn
+Ngành trí tuệ nhân tạo lấy điểm chuẩn bao nhiêu,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành kỹ thuật ô tô,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành ngôn ngữ Anh,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành tài chính ngân hàng,tra_cứu_điểm_chuẩn
+Ngành môi trường lấy điểm chuẩn bao nhiêu,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành logistics,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành khoa học máy tính,tra_cứu_điểm_chuẩn
+Ngành sư phạm toán lấy bao nhiêu điểm,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành báo chí,tra_cứu_điểm_chuẩn
+Tôi muốn tìm ngành học phù hợp với sở thích,tìm_ngành_học
+Tư vấn giúp tôi ngành học có cơ hội việc làm tốt,tìm_ngành_học
+Ngành học nào đang hot hiện nay,tìm_ngành_học
+Tôi muốn tìm ngành học phù hợp với điểm thi,tìm_ngành_học
+Ngành nào lương cao và dễ xin việc,tìm_ngành_học
+Tìm ngành học phù hợp để du học,tìm_ngành_học
+Ngành học nào không yêu cầu toán,tìm_ngành_học
+Ngành nào phù hợp cho nữ,tìm_ngành_học
+Ngành học nào có triển vọng trong 5 năm tới,tìm_ngành_học
+Ngành học nào liên quan đến trí tuệ nhân tạo,tìm_ngành_học
+Ngành học nào phù hợp cho người hướng nội,tìm_ngành_học
+Tôi muốn học ngành liên quan đến công nghệ,tìm_ngành_học
+Ngành học nào có thể làm việc tự do,tìm_ngành_học
+Ngành học nào ít áp lực,tìm_ngành_học
+Ngành nào có thể làm việc ở nước ngoài,tìm_ngành_học
+Ngành học nào cần nhiều sáng tạo,tìm_ngành_học
+Ngành học nào liên quan đến môi trường,tìm_ngành_học
+Ngành nào làm việc trong lĩnh vực tài chính,tìm_ngành_học
+Ngành nào cần kỹ năng giao tiếp tốt,tìm_ngành_học
+Ngành học nào liên quan đến y tế,tìm_ngành_học
+Tôi muốn học ngành kinh doanh,tìm_ngành_học
+Ngành học nào dễ khởi nghiệp,tìm_ngành_học
+Ngành nào phù hợp với người thích du lịch,tìm_ngành_học
+Ngành học nào liên quan đến nghệ thuật,tìm_ngành_học
+Làm sao để đăng ký xét tuyển online,đăng_ký_xét_tuyển
+Đăng ký xét tuyển qua cổng thông tin như thế nào,đăng_ký_xét_tuyển
+Thủ tục đăng ký xét tuyển cần giấy tờ gì,đăng_ký_xét_tuyển
+Đăng ký xét tuyển bằng học bạ thế nào,đăng_ký_xét_tuyển
+Có thể đăng ký xét tuyển nhiều ngành không,đăng_ký_xét_tuyển
+Làm sao để thay đổi nguyện vọng xét tuyển,đăng_ký_xét_tuyển
+Đăng ký xét tuyển có mất phí không,đăng_ký_xét_tuyển
+Khi nào mở cổng đăng ký xét tuyển,đăng_ký_xét_tuyển
+Đăng ký xét tuyển trực tiếp ở trường thế nào,đăng_ký_xét_tuyển
+Đăng ký xét tuyển ngành y dược cần điều kiện gì,đăng_ký_xét_tuyển
+Đăng ký xét tuyển có cần thi năng khiếu không,đăng_ký_xét_tuyển
+Hướng dẫn điền thông tin khi đăng ký xét tuyển,đăng_ký_xét_tuyển
+Có thể đăng ký xét tuyển trước khi có điểm thi không,đăng_ký_xét_tuyển
+Đăng ký xét tuyển bằng điểm thi tốt nghiệp,đăng_ký_xét_tuyển
+Có thể đăng ký xét tuyển cả hệ chính quy và liên thông không,đăng_ký_xét_tuyển
+Đăng ký xét tuyển muộn có được không,đăng_ký_xét_tuyển
+Đăng ký xét tuyển ngành kỹ thuật như thế nào,đăng_ký_xét_tuyển
+Có thể đăng ký xét tuyển nhiều trường không,đăng_ký_xét_tuyển
+Thời hạn đăng ký xét tuyển là khi nào,đăng_ký_xét_tuyển
+Đăng ký xét tuyển có cần hồ sơ gốc không,đăng_ký_xét_tuyển
+Có thể hủy đăng ký xét tuyển không,đăng_ký_xét_tuyển
+Đăng ký xét tuyển có cần hộ khẩu không,đăng_ký_xét_tuyển
+Hướng dẫn đăng ký xét tuyển trực tuyến,đăng_ký_xét_tuyển
+Cách xác nhận đã đăng ký xét tuyển thành công,đăng_ký_xét_tuyển
+Thủ tục nhập học cần giấy tờ gì,hướng_dẫn_nhập_học
+Hướng dẫn làm thủ tục nhập học online,hướng_dẫn_nhập_học
+Có thể nhập học qua bưu điện không,hướng_dẫn_nhập_học
+Nhập học cần chuẩn bị những gì,hướng_dẫn_nhập_học
+Hướng dẫn đóng học phí khi nhập học,hướng_dẫn_nhập_học
+Nhập học trễ có được không,hướng_dẫn_nhập_học
+Nhập học cần giấy báo nhập học bản gốc không,hướng_dẫn_nhập_học
+Cách xin gia hạn nhập học,hướng_dẫn_nhập_học
+Có thể nhập học trước khi có điểm chuẩn không,hướng_dẫn_nhập_học
+Nhập học trực tuyến như thế nào,hướng_dẫn_nhập_học
+Có thể ủy quyền người khác nhập học không,hướng_dẫn_nhập_học
+Nhập học cần giấy khám sức khỏe không,hướng_dẫn_nhập_học
+Cần bao nhiêu ảnh khi nhập học,hướng_dẫn_nhập_học
+Nhập học cần chứng minh nhân dân hay căn cước công dân,hướng_dẫn_nhập_học
+Có cần xác nhận tạm trú khi nhập học không,hướng_dẫn_nhập_học
+Nhập học cần nộp hồ sơ gốc hay bản sao,hướng_dẫn_nhập_học
+Có thể nộp hồ sơ nhập học online,hướng_dẫn_nhập_học
+Nhập học ngành y dược cần thêm giấy tờ gì,hướng_dẫn_nhập_học
+Có thể chuyển ngành ngay khi nhập học không,hướng_dẫn_nhập_học
+Hướng dẫn nộp hồ sơ nhập học trực tiếp,hướng_dẫn_nhập_học
+Thời gian nhập học kéo dài bao lâu,hướng_dẫn_nhập_học
+Nhập học cần xác nhận từ địa phương không,hướng_dẫn_nhập_học
+Có thể nhập học khi chưa đủ học phí không,hướng_dẫn_nhập_học
+Nhập học cần mang theo những giấy tờ gì,hướng_dẫn_nhập_học
+Trường Đại học Bình Dương có học bổng cho sinh viên giỏi không,học_bổng
+Làm sao để nhận học bổng tại Đại học Bình Dương,học_bổng
+Điều kiện nhận học bổng của trường là gì,học_bổng
+Trường có học bổng cho sinh viên nghèo vượt khó không,học_bổng
+Khi nào công bố danh sách nhận học bổng,học_bổng
+Có học bổng cho tân sinh viên không,học_bổng
+Làm sao để xin học bổng bán phần,học_bổng
+Có học bổng toàn phần cho sinh viên xuất sắc không,học_bổng
+Học bổng của trường được xét bao nhiêu lần mỗi năm,học_bổng
+Học bổng được trao vào thời điểm nào trong năm,học_bổng
+Trường cấp những loại học bổng nào,học_bổng
+Có học bổng cho sinh viên học ngành Y không,học_bổng
+Điểm trung bình bao nhiêu để nhận học bổng,học_bổng
+Có học bổng khuyến khích học tập cho sinh viên không,học_bổng
+Học bổng được trao dựa trên tiêu chí nào,học_bổng
+Có học bổng cho sinh viên đạt giải thưởng nghiên cứu không,học_bổng
+Có xét học bổng cho sinh viên khó khăn không,học_bổng
+Có học bổng cho sinh viên quốc tế không,học_bổng
+Có học bổng ngành công nghệ thông tin không,học_bổng
+Làm thế nào để duy trì học bổng,học_bổng
+Trường có hỗ trợ tìm nguồn học bổng ngoài không,học_bổng
+Có học bổng khuyến khích thể thao không,học_bổng
+Học bổng được trao ở lễ khai giảng hay cuối kỳ,học_bổng
+Học bổng có áp dụng cho sinh viên vừa học vừa làm không,học_bổng
+Có học bổng ngành sư phạm tại Đại học Bình Dương không,học_bổng
+Trường có những ngành đào tạo nào,tìm_ngành_học
+Làm sao để biết ngành học phù hợp,tìm_ngành_học
+Tôi muốn tìm hiểu ngành kỹ thuật phần mềm,tìm_ngành_học
+Ngành quản trị kinh doanh của trường học mấy năm,tìm_ngành_học
+Ngành nào có cơ hội việc làm cao nhất,tìm_ngành_học
+Ngành kế toán có đào tạo chất lượng không,tìm_ngành_học
+Trường có đào tạo ngành du lịch không,tìm_ngành_học
+Làm sao để biết ngành học phù hợp với điểm thi,tìm_ngành_học
+Ngành y tá điều dưỡng của trường yêu cầu gì,tìm_ngành_học
+Ngành công nghệ ô tô học ở cơ sở nào,tìm_ngành_học
+Ngành nào phù hợp cho nữ sinh,tìm_ngành_học
+Ngành sư phạm mầm non của trường đào tạo mấy năm,tìm_ngành_học
+Có ngành học về trí tuệ nhân tạo không,tìm_ngành_học
+Ngành học nào có mức lương cao sau tốt nghiệp,tìm_ngành_học
+Ngành thiết kế đồ họa có học nhiều phần mềm không,tìm_ngành_học
+Trường có ngành marketing không,tìm_ngành_học
+Ngành học nào cần thực tập nhiều nhất,tìm_ngành_học
+Ngành quản lý giáo dục yêu cầu môn nào,tìm_ngành_học
+Ngành ngôn ngữ Anh của trường ra trường làm gì,tìm_ngành_học
+Ngành học nào có cơ hội đi du học,tìm_ngành_học
+Ngành công nghệ sinh học đào tạo ở cơ sở nào,tìm_ngành_học
+Ngành luật học mấy năm,tìm_ngành_học
+Ngành tài chính ngân hàng có học tiếng Anh không,tìm_ngành_học
+Ngành kỹ thuật điện có học thực hành nhiều không,tìm_ngành_học
+Ngành học nào có cơ hội khởi nghiệp cao,tìm_ngành_học
+Làm sao để hoàn tất thủ tục nhập học,hướng_dẫn_nhập_học
+Khi nhập học cần mang theo giấy tờ gì,hướng_dẫn_nhập_học
+Có thể nộp hồ sơ nhập học online không,hướng_dẫn_nhập_học
+Nộp hồ sơ nhập học ở đâu,hướng_dẫn_nhập_học
+Nhập học trễ có được không,hướng_dẫn_nhập_học
+Khi nào có giấy báo nhập học,hướng_dẫn_nhập_học
+Thời hạn cuối để nhập học là khi nào,hướng_dẫn_nhập_học
+Có thể nhập học trước khi có kết quả xét tuyển không,hướng_dẫn_nhập_học
+Thủ tục nhập học cho sinh viên quốc tế thế nào,hướng_dẫn_nhập_học
+Nhập học cần đóng học phí luôn không,hướng_dẫn_nhập_học
+Có cần mang ảnh thẻ khi nhập học không,hướng_dẫn_nhập_học
+Có thể ủy quyền cho người khác làm thủ tục nhập học không,hướng_dẫn_nhập_học
+Có hỗ trợ chỗ ở khi nhập học không,hướng_dẫn_nhập_học
+Làm sao để biết mình đã nhập học thành công,hướng_dẫn_nhập_học
+Có thể nhập học tại cơ sở khác không,hướng_dẫn_nhập_học
+Thủ tục nhập học ngành y có khác gì không,hướng_dẫn_nhập_học
+Có cần xét nghiệm y tế khi nhập học không,hướng_dẫn_nhập_học
+Nhập học ngành sư phạm có yêu cầu gì riêng không,hướng_dẫn_nhập_học
+Sinh viên chuyển trường nhập học cần giấy tờ gì,hướng_dẫn_nhập_học
+Nhập học online cần chuẩn bị gì,hướng_dẫn_nhập_học
+Có thể nhập học vào học kỳ giữa năm không,hướng_dẫn_nhập_học
+Làm sao để hủy nhập học nếu đổi ý,hướng_dẫn_nhập_học
+Nhập học ngành kỹ thuật cần mang dụng cụ gì,hướng_dẫn_nhập_học
+Có thể gia hạn nhập học không,hướng_dẫn_nhập_học
+Thủ tục nhập học cho sinh viên khuyết tật thế nào,hướng_dẫn_nhập_học
+Trường có những hệ đào tạo nào,hệ_đào_tạo
+Có hệ vừa học vừa làm không,hệ_đào_tạo
+Hệ đào tạo từ xa học như thế nào,hệ_đào_tạo
+Hệ chính quy học mấy năm,hệ_đào_tạo
+Hệ liên thông của trường có yêu cầu gì,hệ_đào_tạo
+Có hệ đào tạo quốc tế không,hệ_đào_tạo
+Hệ cao đẳng của trường đào tạo bao lâu,hệ_đào_tạo
+Hệ vừa học vừa làm học vào thời gian nào,hệ_đào_tạo
+Hệ đào tạo ban đêm có không,hệ_đào_tạo
+Hệ từ xa có cấp bằng chính quy không,hệ_đào_tạo
+Hệ đào tạo trực tuyến học phí bao nhiêu,hệ_đào_tạo
+Có hệ liên thông từ cao đẳng lên đại học không,hệ_đào_tạo
+Hệ đào tạo đặc biệt của trường là gì,hệ_đào_tạo
+Có hệ vừa học vừa làm cho ngành y không,hệ_đào_tạo
+Hệ đào tạo quốc tế học ở đâu,hệ_đào_tạo
+Hệ từ xa cần thi đầu vào không,hệ_đào_tạo
+Hệ vừa học vừa làm có nhận sinh viên tỉnh khác không,hệ_đào_tạo
+Có hệ đào tạo liên kết với nước ngoài không,hệ_đào_tạo
+Hệ đào tạo tiếng Anh có những ngành nào,hệ_đào_tạo
+Hệ chính quy học buổi sáng hay chiều,hệ_đào_tạo
+Có hệ vừa học vừa làm cho ngành kỹ thuật không,hệ_đào_tạo
+Hệ từ xa học qua phần mềm nào,hệ_đào_tạo
+Hệ đào tạo ngắn hạn có cấp chứng chỉ không,hệ_đào_tạo
+Hệ liên thông có xét tuyển học bạ không,hệ_đào_tạo
+Có hệ đào tạo chất lượng cao không,hệ_đào_tạo
+Điểm chuẩn ngành công nghệ thông tin năm nay bao nhiêu,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành kế toán của Đại học Bình Dương,tra_cứu_điểm_chuẩn
+Cho tôi biết điểm chuẩn năm 2024 của trường,tra_cứu_điểm_chuẩn
+Ngành quản trị kinh doanh năm nay lấy bao nhiêu điểm,tra_cứu_điểm_chuẩn
+Tôi muốn xem điểm chuẩn các ngành,tra_cứu_điểm_chuẩn
+Điểm chuẩn cao nhất của trường là bao nhiêu,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành điều dưỡng năm nay,tra_cứu_điểm_chuẩn
+Cách tra cứu điểm chuẩn của trường,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành luật tại Đại học Bình Dương,tra_cứu_điểm_chuẩn
+Ngành công nghệ ô tô năm nay lấy bao nhiêu điểm,tra_cứu_điểm_chuẩn
+Điểm chuẩn trung bình các ngành năm 2024,tra_cứu_điểm_chuẩn
+Điểm chuẩn xét học bạ là bao nhiêu,tra_cứu_điểm_chuẩn
+Tôi muốn biết điểm chuẩn của ngành sư phạm,tra_cứu_điểm_chuẩn
+Điểm chuẩn thấp nhất năm nay là bao nhiêu,tra_cứu_điểm_chuẩn
+Có thể tra cứu điểm chuẩn online không,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành marketing,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành kỹ thuật phần mềm,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành kiến trúc năm nay,tra_cứu_điểm_chuẩn
+Điểm chuẩn của trường năm 2023 và 2024,tra_cứu_điểm_chuẩn
+Tôi cần xem điểm chuẩn chính thức,tra_cứu_điểm_chuẩn
+Điểm chuẩn xét tuyển thẳng là bao nhiêu,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành y khoa,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành thiết kế đồ họa,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành ngôn ngữ Anh,tra_cứu_điểm_chuẩn
+Điểm chuẩn ngành quản lý đất đai,tra_cứu_điểm_chuẩn
+Điều kiện để được xét tuyển vào Đại học Bình Dương,điều_kiện_học_tập
+Điều kiện đăng ký học ngành kỹ thuật phần mềm,điều_kiện_học_tập
+Điều kiện học ngành quản trị kinh doanh,điều_kiện_học_tập
+Tôi muốn biết yêu cầu để được nhận vào ngành kế toán,điều_kiện_học_tập
+Điều kiện học tập với hệ đào tạo chính quy,điều_kiện_học_tập
+Yêu cầu học lực để được xét tuyển,điều_kiện_học_tập
+Điều kiện để học ngành luật,điều_kiện_học_tập
+Cần điểm trung bình bao nhiêu để xét học bạ,điều_kiện_học_tập
+Điều kiện học tập với ngành điều dưỡng,điều_kiện_học_tập
+Điều kiện học ngành công nghệ ô tô,điều_kiện_học_tập
+Yêu cầu ngoại ngữ để học ngành ngôn ngữ Anh,điều_kiện_học_tập
+Điều kiện học ngành kiến trúc,điều_kiện_học_tập
+Cần chứng chỉ gì để được học ngành y khoa,điều_kiện_học_tập
+Điều kiện tuyển sinh hệ liên thông,điều_kiện_học_tập
+Điều kiện học ngành marketing,điều_kiện_học_tập
+Điều kiện học ngành quản lý đất đai,điều_kiện_học_tập
+Điều kiện xét tuyển ngành thiết kế đồ họa,điều_kiện_học_tập
+Điều kiện học ngành công nghệ thông tin,điều_kiện_học_tập
+Điều kiện học ngành sư phạm,điều_kiện_học_tập
+Điều kiện xét tuyển ngành điện tử viễn thông,điều_kiện_học_tập
+Điều kiện học ngành du lịch,điều_kiện_học_tập
+Điều kiện học ngành công nghệ sinh học,điều_kiện_học_tập
+Điều kiện học ngành công tác xã hội,điều_kiện_học_tập
+Điều kiện học ngành tài chính ngân hàng,điều_kiện_học_tập
+Thủ tục nhập học tại Đại học Bình Dương như thế nào,thủ_tục_nhập_học
+Khi nhập học cần chuẩn bị những giấy tờ gì,thủ_tục_nhập_học
+Nộp hồ sơ nhập học ở đâu,thủ_tục_nhập_học
+Cách đăng ký nhập học online,thủ_tục_nhập_học
+Thủ tục nhập học ngành công nghệ thông tin,thủ_tục_nhập_học
+Các bước nhập học dành cho tân sinh viên,thủ_tục_nhập_học
+Hồ sơ nhập học gồm những gì,thủ_tục_nhập_học
+Thủ tục nhập học hệ chính quy,thủ_tục_nhập_học
+Nhập học cần những giấy tờ nào,thủ_tục_nhập_học
+Địa điểm nộp hồ sơ nhập học,thủ_tục_nhập_học
+Thủ tục nhập học ngành kế toán,thủ_tục_nhập_học
+Nhập học online cần làm gì,thủ_tục_nhập_học
+Thủ tục nhập học ngành điều dưỡng,thủ_tục_nhập_học
+Nhập học cần mang theo gì,thủ_tục_nhập_học
+Thủ tục nhập học ngành luật,thủ_tục_nhập_học
+Thủ tục nhập học ngành kiến trúc,thủ_tục_nhập_học
+Thủ tục nhập học ngành quản trị kinh doanh,thủ_tục_nhập_học
+Hướng dẫn nhập học cho sinh viên quốc tế,thủ_tục_nhập_học
+Thủ tục nhập học ngành marketing,thủ_tục_nhập_học
+Thủ tục nhập học ngành công nghệ ô tô,thủ_tục_nhập_học
+Nhập học cần chuẩn bị gì,thủ_tục_nhập_học
+Thủ tục nhập học ngành công nghệ sinh học,thủ_tục_nhập_học
+Thủ tục nhập học ngành ngôn ngữ Anh,thủ_tục_nhập_học
+Thủ tục nhập học ngành y khoa,thủ_tục_nhập_học
+Phương thức đào tạo của Đại học Bình Dương,phương_thức_đào_tạo
+Các loại hình đào tạo tại trường,phương_thức_đào_tạo
+Trường đào tạo theo hình thức nào,phương_thức_đào_tạo
+Có chương trình đào tạo từ xa không,phương_thức_đào_tạo
+Phương thức đào tạo hệ chính quy,phương_thức_đào_tạo
+Học trực tuyến tại Đại học Bình Dương như thế nào,phương_thức_đào_tạo
+Có chương trình vừa học vừa làm không,phương_thức_đào_tạo
+Phương thức đào tạo liên thông,phương_thức_đào_tạo
+Các phương thức đào tạo ngành kế toán,phương_thức_đào_tạo
+Hệ đào tạo đại học 4 năm,phương_thức_đào_tạo
+Phương thức đào tạo ngành điều dưỡng,phương_thức_đào_tạo
+Phương thức đào tạo ngành luật,phương_thức_đào_tạo
+Chương trình đào tạo ngành công nghệ thông tin,phương_thức_đào_tạo
+Phương thức đào tạo ngành marketing,phương_thức_đào_tạo
+Phương thức đào tạo ngành kỹ thuật phần mềm,phương_thức_đào_tạo
+Có đào tạo từ xa ngành ngôn ngữ Anh không,phương_thức_đào_tạo
+Phương thức đào tạo ngành kiến trúc,phương_thức_đào_tạo
+Phương thức đào tạo ngành công nghệ ô tô,phương_thức_đào_tạo
+Phương thức đào tạo ngành quản trị kinh doanh,phương_thức_đào_tạo
+Phương thức đào tạo ngành sư phạm,phương_thức_đào_tạo
+Phương thức đào tạo ngành tài chính ngân hàng,phương_thức_đào_tạo
+Phương thức đào tạo ngành quản lý đất đai,phương_thức_đào_tạo
+Phương thức đào tạo ngành công tác xã hội,phương_thức_đào_tạo
+Phương thức đào tạo ngành du lịch,phương_thức_đào_tạo
+Thủ tục nhập học cần những giấy tờ gì,hướng_dẫn_nhập_học
+Làm sao để đăng ký nhập học tại Đại học Bình Dương,hướng_dẫn_nhập_học
+Khi nhập học cần mang theo những giấy tờ gì,hướng_dẫn_nhập_học
+Quy trình nhập học cho tân sinh viên như thế nào,hướng_dẫn_nhập_học
+Có thể nộp hồ sơ nhập học online không,hướng_dẫn_nhập_học
+Nhập học muộn có được không,hướng_dẫn_nhập_học
+Khi nào có lịch nhập học chính thức,hướng_dẫn_nhập_học
+Nhập học cần đóng những khoản phí nào,hướng_dẫn_nhập_học
+Trường có hỗ trợ sinh viên làm thủ tục nhập học không,hướng_dẫn_nhập_học
+Hướng dẫn từng bước nhập học cho sinh viên mới,hướng_dẫn_nhập_học
+Tôi có thể ủy quyền cho người khác nhập học thay không,hướng_dẫn_nhập_học
+Có cần khám sức khỏe khi nhập học không,hướng_dẫn_nhập_học
+Nhập học xong có được cấp thẻ sinh viên ngay không,hướng_dẫn_nhập_học
+Nhập học online cần chuẩn bị gì,hướng_dẫn_nhập_học
+Có cần xác nhận nhập học trước khi đến trường không,hướng_dẫn_nhập_học
+Trường có tổ chức ngày hội nhập học không,hướng_dẫn_nhập_học
+Sinh viên quốc tế nhập học cần thủ tục gì,hướng_dẫn_nhập_học
+Thủ tục nhập học đối với sinh viên chuyển trường như thế nào,hướng_dẫn_nhập_học
+Có thể nhập học trước khi có giấy báo trúng tuyển không,hướng_dẫn_nhập_học
+Nhập học muộn nhất vào ngày nào,hướng_dẫn_nhập_học
+Nhập học có cần đem bản gốc giấy tờ không,hướng_dẫn_nhập_học
+Nếu mất giấy báo trúng tuyển có nhập học được không,hướng_dẫn_nhập_học
+Khi nhập học có cần mang ảnh thẻ không,hướng_dẫn_nhập_học
+Có được nhập học mà chưa đóng học phí không,hướng_dẫn_nhập_học
+Có thể gửi hồ sơ nhập học qua bưu điện không,hướng_dẫn_nhập_học
+Khi nào bắt đầu nhận hồ sơ tuyển sinh,thông_tin_tuyển_sinh
+Thời gian tuyển sinh của trường là khi nào,thông_tin_tuyển_sinh
+Trường tuyển sinh bao nhiêu chỉ tiêu năm nay,thông_tin_tuyển_sinh
+Ngành công nghệ thông tin năm nay tuyển bao nhiêu sinh viên,thông_tin_tuyển_sinh
+Khi nào kết thúc nhận hồ sơ tuyển sinh,thông_tin_tuyển_sinh
+Có xét tuyển học bạ không,thông_tin_tuyển_sinh
+Trường có tổ chức tuyển sinh online không,thông_tin_tuyển_sinh
+Chỉ tiêu tuyển sinh của ngành quản trị kinh doanh là bao nhiêu,thông_tin_tuyển_sinh
+Năm nay trường mở thêm ngành mới nào,thông_tin_tuyển_sinh
+Thời gian thi tuyển sinh của trường là khi nào,thông_tin_tuyển_sinh
+Có giới hạn độ tuổi khi tuyển sinh không,thông_tin_tuyển_sinh
+Thông tin tuyển sinh được đăng ở đâu,thông_tin_tuyển_sinh
+Trường có tuyển sinh hệ vừa học vừa làm không,thông_tin_tuyển_sinh
+Khi nào công bố danh sách trúng tuyển,thông_tin_tuyển_sinh
+Có được điều chỉnh nguyện vọng sau khi nộp hồ sơ không,thông_tin_tuyển_sinh
+Có được đăng ký nhiều ngành trong cùng đợt tuyển sinh không,thông_tin_tuyển_sinh
+Trường có liên kết tuyển sinh với các trường khác không,thông_tin_tuyển_sinh
+Thủ tục đăng ký xét tuyển như thế nào,thông_tin_tuyển_sinh
+Học phí ngành công nghệ thông tin là bao nhiêu,học_phí
+Học phí ngành quản trị kinh doanh bao nhiêu một năm,học_phí
+Có miễn giảm học phí cho sinh viên nghèo không,học_phí
+Học phí mỗi tín chỉ là bao nhiêu,học_phí
+Trường có hỗ trợ trả góp học phí không,học_phí
+Có chính sách học bổng giảm học phí không,học_phí
+Học phí ngành kế toán có cao không,học_phí
+Học phí có thay đổi mỗi năm không,học_phí
+Có thể đóng học phí online không,học_phí
+Học phí học kỳ đầu là bao nhiêu,học_phí
+Nếu đóng trễ học phí có bị phạt không,học_phí
+Học phí có bao gồm tiền giáo trình không,học_phí
+Sinh viên quốc tế học phí bao nhiêu,học_phí
+Có được hoàn lại học phí nếu bảo lưu không,học_phí
+Học phí ngành ngôn ngữ Anh bao nhiêu,học_phí
+Các khoản phí khác ngoài học phí là gì,học_phí
+Có giảm học phí cho con em giáo viên không,học_phí
+Học phí ngành kỹ thuật phần mềm bao nhiêu,học_phí
+Có hỗ trợ học phí cho sinh viên khuyết tật không,học_phí
+Học phí được chia làm mấy đợt đóng,học_phí
+Học phí hệ vừa học vừa làm bao nhiêu,học_phí
+Có thể đóng học phí bằng thẻ ngân hàng không,học_phí
+Học phí ngành điều dưỡng là bao nhiêu,học_phí
+Tôi muốn được tư vấn chọn ngành học,tư_vấn_ngành_học
+Ngành nào phù hợp với xu hướng hiện nay,tư_vấn_ngành_học
+Ngành nào dễ xin việc sau khi tốt nghiệp,tư_vấn_ngành_học
+Tôi thích công nghệ thì nên học ngành nào,tư_vấn_ngành_học
+Tư vấn giúp tôi ngành phù hợp với năng lực,tư_vấn_ngành_học
+Ngành nào phù hợp với người hướng nội,tư_vấn_ngành_học
+Tôi muốn học ngành liên quan đến kinh doanh,tư_vấn_ngành_học
+Ngành nào có thu nhập cao,tư_vấn_ngành_học
+Tư vấn ngành học có nhiều cơ hội việc làm,tư_vấn_ngành_học
+Tôi giỏi tiếng Anh nên học ngành gì,tư_vấn_ngành_học
+Ngành nào phù hợp với nữ,tư_vấn_ngành_học
+Tôi muốn học ngành liên quan đến y tế,tư_vấn_ngành_học
+Ngành nào có nhiều cơ hội đi du học,tư_vấn_ngành_học
+Tư vấn ngành học cho người yêu thích sáng tạo,tư_vấn_ngành_học
+Tôi muốn học ngành có thể làm việc từ xa,tư_vấn_ngành_học
+Ngành nào có nhu cầu nhân lực cao,tư_vấn_ngành_học
+Tư vấn ngành học phù hợp với khả năng giao tiếp tốt,tư_vấn_ngành_học
+Ngành nào ít áp lực,tư_vấn_ngành_học
+Ngành nào phù hợp với người thích nghiên cứu,tư_vấn_ngành_học
+Tôi muốn học ngành có cơ hội thăng tiến nhanh,tư_vấn_ngành_học
+Tư vấn ngành học phù hợp với xu hướng công nghệ,tư_vấn_ngành_học
+Ngành nào ổn định lâu dài,tư_vấn_ngành_học
+Ngành nào có thể khởi nghiệp dễ dàng,tư_vấn_ngành_học
+Tôi muốn học ngành có tính sáng tạo cao,tư_vấn_ngành_học
