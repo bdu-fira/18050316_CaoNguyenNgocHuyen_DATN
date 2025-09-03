@@ -1,0 +1,67 @@
+<!-- templates/index.html -->
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <title>Xác định ý định - Tìm kiếm thông minh</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script defer>
+    async function detectIntent() {
+      const q = document.getElementById("query").value;
+      if (!q.trim()) return;
+
+      const res = await fetch("/intent", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({query: q})
+      });
+      const data = await res.json();
+      document.getElementById("intentOutput").innerText =
+         `👉 Ý định: ${data.intent} (độ tin cậy ${ (data.score*100).toFixed(1) }%)`;
+      return data.intent;
+    }
+
+    async function smartSearch() {
+      const q = document.getElementById("query").value;
+      if (!q.trim()) return;
+
+      // Nếu đã xác định ý định rồi, đọc lại; chưa thì gọi detectIntent
+      let intentText = document.getElementById("intentOutput").innerText;
+      let intent = "";
+      if (intentText.startsWith("👉")) {
+        intent = intentText.split(":")[1].split("(")[0].trim();
+      } else {
+        intent = await detectIntent(); // gọi hàm trên, trả về intent
+      }
+
+      const res = await fetch("/smart-search", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({query: q, intent: intent})
+      });
+      const data = await res.json();
+      // Mở tab Google từ phía client (đảm bảo mở đúng trình duyệt người dùng)
+      window.open(data.redirect, "_blank");
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1>Hệ thống xác định ý định & tìm kiếm thông minh</h1>
+
+    <label for="query">Nhập câu truy vấn:</label>
+    <textarea id="query" placeholder="Nhập câu hỏi hoặc yêu cầu..." rows="3"></textarea>
+
+    <div class="btn-group">
+      <button class="btn primary" onclick="detectIntent()">Xác định ý định</button>
+      <button class="btn secondary" onclick="smartSearch()">Tìm kiếm thông minh</button>
+    </div>
+
+    <p id="intentOutput" class="intent-output"></p>
+
+    <footer>
+      <small>Đề án tốt nghiệp đại học – Trường Đại học Bình Dương</small>
+    </footer>
+  </div>
+</body>
+</html>

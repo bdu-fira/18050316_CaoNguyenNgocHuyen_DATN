@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Đồ án tốt nghiệp - Xác định ý định người dùng</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      
+      <p class="university">TRƯỜNG ĐẠI HỌC BÌNH DƯƠNG</p>
+      <p class="faculty">KHOA CÔNG NGHỆ THÔNG TIN, ROBOT VÀ TRÍ TUỆ NHÂN TẠO</p>
+      <h1>ĐỒ ÁN TỐT NGHIỆP</h1>
+      <p class="topic-title">TÊN ĐỀ TÀI</p>
+      <h2>XÁC ĐỊNH Ý ĐỊNH NGƯỜI DÙNG HỖ TRỢ TÌM KIẾM THÔNG MINH</h2>
+
+      <p><strong>Giảng viên hướng dẫn:</strong> ThS. Huỳnh Quang Đức</p>
+      <p><strong>Sinh viên thực hiện:</strong> Cao Nguyễn Ngọc Huyền - Mã số sinh viên: 18050316</p>
+    </div>
+
+    <div class="query-section">
+  <!-- Ô truy vấn -->
+  <div class="query-box">
+    <label for="query" class="label-red">Nhập câu truy vấn</label><br>
+    <div class="textarea-wrapper">
+      <textarea id="query" rows="5" placeholder="Hãy nhập câu truy vấn vào ô này" oninput="toggleClear('query')"></textarea>
+      <button id="clear-query" class="clear-btn" onclick="clearText('query')" style="display: none;">x</button>
+    </div>
+    <button onclick="detectIntent()">Click here: Xác định ý định</button>
+  </div>
+
+  <!-- Ô ý định -->
+<div class="query-box">
+  <label for="intent" class="label-green">Ý định người dùng</label><br>
+  <div class="textarea-wrapper">
+    <textarea id="intent" rows="5" placeholder="Nơi hiển thị kết quả ý định" oninput="toggleClear('intent')"></textarea>
+    <button id="clear-intent" class="clear-btn" onclick="clearText('intent')" style="display: none;">x</button>
+  </div>
+  <button onclick="smartSearch()">Click here: Tìm kiếm thông minh</button>
+</div>
+</div>
+
+
+
+    <div class="footer">
+      <p>Đề tài tốt nghiệp được thực hiện tại Trường Đại học Bình Dương.</p>
+      <p><strong>Ứng dụng được thiết kế bởi:</strong> Cao Nguyễn Ngọc Huyền (18050316), Khoa Công nghệ thông tin, Robot và Trí tuệ nhân tạo.</p>
+    </div>
+  </div>
+
+  <script>
+    async function detectIntent() {
+      const q = document.getElementById("query").value;
+      if (!q.trim()) return;
+      const res = await fetch("/intent", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({query: q})
+      });
+      const data = await res.json();
+      //document.getElementById("intent").value = `${data.intent} (độ tin cậy ${Math.round(data.score * 100)}%)`;
+      document.getElementById("intent").value = `${data.intent}`;
+    }
+
+    async function smartSearch() {
+      const q = document.getElementById("query").value;
+      const intent = document.getElementById("intent").value;
+      if (!q.trim()) return;
+      const res = await fetch("/smart-search", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({query: q, intent: intent})
+      });
+      const data = await res.json();
+      window.open(data.redirect, "_blank");
+    }
+  </script>
+</body>
+</html>
+<script>
+  function toggleClear(id) {
+    const value = document.getElementById(id).value;
+    const btn = document.getElementById("clear-" + id);
+    btn.style.display = value.trim() ? "flex" : "none";
+  }
+
+  function clearText(id) {
+    document.getElementById(id).value = "";
+    toggleClear(id);
+  }
+
+  window.onload = function() {
+    toggleClear('query');
+    toggleClear('intent');
+  };
+</script>

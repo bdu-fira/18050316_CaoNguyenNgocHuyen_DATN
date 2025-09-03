@@ -1,0 +1,65 @@
+/* static/style.css */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f5f7fa;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.container {
+  max-width: 720px;
+  width: 100%;
+  margin: 40px 20px;
+  background: #fff;
+  border-radius: 16px;
+  padding: 32px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 24px;
+  font-size: 1.8rem;
+  color: #1a2d55;
+}
+
+textarea {
+  width: 100%;
+  resize: vertical;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #c8d1e0;
+  font-size: 1rem;
+}
+
+.btn-group {
+  margin-top: 16px;
+  display: flex;
+  gap: 12px;
+}
+
+.btn {
+  flex: 1;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform .1s;
+}
+
+.btn.primary   { background: #1a73e8; color: #fff; }
+.btn.secondary { background: #34a853; color: #fff; }
+
+.btn:hover   { transform: translateY(-2px); }
+.btn:active  { transform: translateY(1px); }
+
+.intent-output {
+  margin-top: 20px;
+  font-weight: 600;
+  color: #dc2626; /* đỏ nhấn mạnh */
+}
+
+footer { margin-top: 32px; text-align: center; color: #64748b; }
